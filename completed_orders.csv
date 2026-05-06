@@ -1,0 +1,40 @@
+OrderID,OrderDate,CustomerName,OrderStatus,ProductCategory,ItemQuantity,ItemPrice,ShippingCost,DiscountApplied,PaymentMethod,TotalAmount
+10010,8/1/2024,Cust_10,Completed,Clothing,3,219,5,0,PayPal,662
+10019,12/27/2024,Cust_19,Completed,Home,8,175,15,20,Debit Card,1395
+10023,12/20/2024,Cust_23,Completed,Clothing,4,479,15,15,UPI,1916
+10029,6/25/2024,Cust_29,Completed,Home,14,246,5,15,UPI,3434
+10032,2/18/2024,Cust_32,Completed,Books,6,225,5,20,Debit Card,1335
+10034,7/8/2024,Cust_34,Completed,Clothing,3,272,5,0,PayPal,821
+10035,5/15/2024,Cust_35,Completed,Electronics,8,301,0,20,UPI,2388
+10039,10/21/2024,Cust_39,Completed,Books,13,335,10,20,Debit Card,4345
+10051,10/31/2024,Cust_51,Completed,Home,6,236,0,15,Debit Card,1401
+10052,2/10/2024,Cust_52,Completed,Books,2,22,0,15,PayPal,29
+10055,10/3/2024,Cust_55,Completed,Home,15,127,5,10,Credit Card,1900
+10063,5/26/2024,Cust_63,Completed,Electronics,1,55,5,20,UPI,40
+10066,2/15/2024,Cust_66,Completed,Home,13,111,0,10,Credit Card,1433
+10067,2/14/2024,Cust_67,Completed,Home,19,289,5,5,PayPal,5491
+10069,6/16/2024,Cust_69,Completed,Home,17,479,15,0,Credit Card,8158
+10076,8/27/2024,Cust_76,Completed,Electronics,18,396,5,15,UPI,7118
+10090,12/5/2024,Cust_90,Completed,Books,12,355,5,15,PayPal,4250
+10092,5/25/2024,Cust_92,Completed,Electronics,15,330,5,10,PayPal,4945
+10095,5/6/2024,Cust_95,Completed,Electronics,6,165,5,10,Credit Card,985
+10097,5/26/2024,Cust_97,Completed,Electronics,18,184,10,5,Debit Card,3317
+10098,8/26/2024,Cust_98,Completed,Electronics,8,474,5,10,PayPal,3787
+10101,8/12/2024,Cust_101,Completed,Books,5,195,5,15,Credit Card,965
+10108,4/14/2024,Cust_108,Completed,Books,2,231,0,5,PayPal,457
+10109,7/20/2024,Cust_109,Completed,Books,12,242,0,15,Credit Card,2889
+10110,11/2/2024,Cust_110,Completed,Books,4,171,15,20,PayPal,679
+10111,11/26/2024,Cust_111,Completed,Books,4,430,10,20,Credit Card,1710
+10116,7/19/2024,Cust_116,Completed,Electronics,19,162,15,10,PayPal,3083
+10117,2/8/2024,Cust_117,Completed,Clothing,17,42,15,15,UPI,714
+10122,4/26/2024,Cust_122,Completed,Electronics,5,322,10,10,PayPal,1610
+10123,1/2/2024,Cust_123,Completed,Clothing,17,135,15,10,UPI,2300
+10124,4/2/2024,Cust_124,Completed,Books,1,21,15,20,UPI,16
+10125,6/14/2024,Cust_125,Completed,Electronics,10,25,15,15,UPI,250
+10126,12/15/2024,Cust_126,Completed,Electronics,15,217,15,5,UPI,3265
+10128,9/14/2024,Cust_128,Completed,Clothing,13,382,5,5,Debit Card,4966
+10130,9/24/2024,Cust_130,Completed,Clothing,1,470,0,10,PayPal,460
+10138,2/18/2024,Cust_138,Completed,Home,19,273,10,20,Debit Card,5177
+10141,10/5/2024,Cust_141,Completed,Home,10,226,5,20,PayPal,2245
+10142,10/20/2024,Cust_142,Completed,Home,17,465,5,0,UPI,7910
+10146,5/25/2024,Cust_146,Completed,Electronics,9,141,10,5,PayPal,1274
