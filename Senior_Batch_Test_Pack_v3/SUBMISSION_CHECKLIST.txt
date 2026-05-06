@@ -1,0 +1,21 @@
+SENIOR BATCH SUBMISSION CHECKLIST
+
+1. Notebook file name:
+   seniorbatch_<studentname>_<rollno>.ipynb
+
+2. Required output files:
+   - q3_sector_profit_summary.csv
+   - q4_top_companies_efficiency.csv
+   - q5_food_revenue.csv
+   - q6_top_customers.csv
+   - q7_college_salary.csv
+   - q8_team_position_salary.csv
+   - q9_top5_lodging_revenue.png
+   - q10_marketsegment_booking_mix.png
+
+3. Confirm before zipping:
+   - notebook runs from top to bottom
+   - all code and outputs are visible
+   - chart files are saved
+   - original datasets are unchanged
+   - final submission contains only one student folder
