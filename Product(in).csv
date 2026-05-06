@@ -1,0 +1,1051 @@
+ProductID,ProductName,Category,Price,StockQuantity,SupplierID,WarrantyMonths,Rating
+2001,Product_2001,Accessories,19039.74,256,36,12,3.6
+2002,Product_2002,Electronics,47560.36,278,3,12,4.9
+2003,Product_2003,Electronics,36733.7,150,9,6,4.3
+2004,Product_2004,Accessories,30133.59,283,8,12,2.5
+2005,Product_2005,Wearables,8222.92,425,33,6,3.4
+2006,Product_2006,Home Appliances,8221.73,105,6,6,4.2
+2007,Product_2007,Home Appliances,3375.14,236,41,36,2.7
+2008,Product_2008,Home Appliances,43375.72,388,39,12,3.9
+2009,Product_2009,Accessories,30255.19,48,4,12,4
+2010,Product_2010,Electronics,35549.59,311,13,24,2.5
+2011,Product_2011,Accessories,1518.93,38,49,36,3.7
+2012,Product_2012,Accessories,48510.54,455,2,24,4.3
+2013,Product_2013,Audio,41705.91,486,5,36,3.5
+2014,Product_2014,Electronics,11010.79,327,44,12,2
+2015,Product_2015,Audio,9500.34,254,27,6,2
+2016,Product_2016,Smart Devices,9578.52,245,32,6,3.1
+2017,Product_2017,Electronics,15559.99,194,21,6,4.8
+2018,Product_2018,Electronics,26475.44,281,8,6,2.7
+2019,Product_2019,Electronics,21881.28,449,38,6,3.9
+2020,Product_2020,Home Appliances,14915.84,245,8,24,2.7
+2021,Product_2021,Home Appliances,30786.72,248,50,36,3
+2022,Product_2022,Audio,7404.95,386,3,12,4.5
+2023,Product_2023,Audio,14961.16,275,44,24,4.2
+2024,Product_2024,Electronics,18634.91,423,3,36,2.3
+2025,Product_2025,Audio,23075.46,418,22,6,3.3
+2026,Product_2026,Home Appliances,39366.21,368,6,36,2.1
+2027,Product_2027,Accessories,10383.85,349,2,36,3.4
+2028,Product_2028,Accessories,25954.6,398,23,6,4
+2029,Product_2029,Accessories,29824.52,74,44,6,2.4
+2030,Product_2030,Audio,2799.3,487,2,6,2.9
+2031,Product_2031,Smart Devices,30573.47,186,38,12,3.2
+2032,Product_2032,Home Appliances,8940.94,12,17,6,4.8
+2033,Product_2033,Smart Devices,3720.05,438,35,12,5
+2034,Product_2034,Audio,47469.83,151,34,6,2.1
+2035,Product_2035,Wearables,48298.79,385,23,12,4.3
+2036,Product_2036,Electronics,40515.67,167,30,36,3.1
+2037,Product_2037,Home Appliances,15578.38,333,8,24,3.2
+2038,Product_2038,Accessories,5334.77,155,22,36,4.3
+2039,Product_2039,Smart Devices,34369.53,455,44,36,4.8
+2040,Product_2040,Wearables,22287.55,302,36,6,4.9
+2041,Product_2041,Wearables,6540.89,162,5,12,3.7
+2042,Product_2042,Home Appliances,25011.26,441,13,24,3.1
+2043,Product_2043,Home Appliances,2202.23,202,29,6,4.4
+2044,Product_2044,Wearables,45511.36,446,31,6,2.8
+2045,Product_2045,Electronics,13309.61,472,47,6,3.7
+2046,Product_2046,Electronics,33294.85,82,16,36,3.1
+2047,Product_2047,Smart Devices,15929.7,408,42,12,4
+2048,Product_2048,Electronics,26243.37,314,30,12,2.7
+2049,Product_2049,Wearables,27562.16,386,16,24,2.6
+2050,Product_2050,Wearables,9650.3,353,12,12,4.8
+2051,Product_2051,Audio,48494.44,461,17,12,2.3
+2052,Product_2052,Wearables,38869.07,149,16,6,3.5
+2053,Product_2053,Electronics,47005.2,196,12,6,2.7
+2054,Product_2054,Accessories,44793.95,302,8,36,2.1
+2055,Product_2055,Smart Devices,30096.05,70,20,6,2.1
+2056,Product_2056,Audio,46132.77,494,3,6,2.5
+2057,Product_2057,Electronics,4880.38,436,16,6,4.6
+2058,Product_2058,Smart Devices,10201.15,389,30,6,2.8
+2059,Product_2059,Electronics,2738.75,207,45,36,4.9
+2060,Product_2060,Audio,16603.85,304,23,6,3.7
+2061,Product_2061,Wearables,19739.53,449,28,24,3.3
+2062,Product_2062,Accessories,13931.78,328,40,24,3.7
+2063,Product_2063,Audio,41522.51,311,5,24,3.6
+2064,Product_2064,Wearables,18159.29,353,20,24,4.3
+2065,Product_2065,Audio,14406.26,20,40,6,2.8
+2066,Product_2066,Home Appliances,27363.46,71,44,24,3.1
+2067,Product_2067,Accessories,7475.75,342,1,6,4.7
+2068,Product_2068,Electronics,40208.75,235,30,36,4.8
+2069,Product_2069,Electronics,4190.26,162,21,24,4.7
+2070,Product_2070,Accessories,49350.9,208,20,12,3.3
+2071,Product_2071,Home Appliances,38726.12,61,6,24,4.3
+2072,Product_2072,Wearables,10336.43,269,22,24,3.4
+2073,Product_2073,Electronics,773.34,68,18,6,3.5
+2074,Product_2074,Home Appliances,40865.34,81,8,24,2.6
+2075,Product_2075,Electronics,35489.44,157,39,12,3.8
+2076,Product_2076,Smart Devices,36585.85,358,32,6,2.6
+2077,Product_2077,Wearables,38677.88,72,33,6,3
+2078,Product_2078,Smart Devices,4165.21,319,16,36,4.6
+2079,Product_2079,Accessories,18244.05,382,12,36,2.6
+2080,Product_2080,Wearables,6235.52,252,38,24,2.2
+2081,Product_2081,Home Appliances,43223.62,375,34,36,2.2
+2082,Product_2082,Wearables,31353.26,339,14,36,4.8
+2083,Product_2083,Wearables,16879.45,116,36,36,3.5
+2084,Product_2084,Home Appliances,3646.14,235,33,6,3.2
+2085,Product_2085,Accessories,15893.62,322,23,6,4.4
+2086,Product_2086,Wearables,16596.57,227,50,6,4.5
+2087,Product_2087,Accessories,36615.51,434,45,36,3
+2088,Product_2088,Accessories,32059.09,250,2,6,4.1
+2089,Product_2089,Accessories,44417.03,268,41,36,4.3
+2090,Product_2090,Electronics,23874.64,385,21,6,4
+2091,Product_2091,Audio,6419.92,271,2,6,2.5
+2092,Product_2092,Accessories,35805.62,14,27,12,4.6
+2093,Product_2093,Home Appliances,38158.86,270,9,24,3.6
+2094,Product_2094,Audio,28283.22,63,1,36,2.8
+2095,Product_2095,Accessories,38662.88,56,11,12,3.3
+2096,Product_2096,Home Appliances,24942.88,224,3,6,2.1
+2097,Product_2097,Home Appliances,26375.28,186,23,36,2.4
+2098,Product_2098,Smart Devices,21663.28,18,26,6,4.3
+2099,Product_2099,Smart Devices,1758.25,108,4,24,2
+2100,Product_2100,Wearables,5840.63,29,18,12,3.2
+2101,Product_2101,Accessories,2055.74,387,6,24,3.6
+2102,Product_2102,Accessories,32002.32,250,35,12,2.2
+2103,Product_2103,Audio,16060.62,70,22,6,4.9
+2104,Product_2104,Home Appliances,25674.25,388,43,24,2.7
+2105,Product_2105,Accessories,45424.54,499,15,24,2.9
+2106,Product_2106,Wearables,12839.97,428,22,6,2.9
+2107,Product_2107,Electronics,20813.95,187,37,24,2.7
+2108,Product_2108,Home Appliances,37899.78,347,42,36,2
+2109,Product_2109,Electronics,11825.51,71,12,12,4.2
+2110,Product_2110,Wearables,4310.51,154,47,12,4.9
+2111,Product_2111,Smart Devices,14842.7,225,49,12,2.7
+2112,Product_2112,Wearables,8480.45,12,42,36,4
+2113,Product_2113,Electronics,46520.03,169,38,12,4.2
+2114,Product_2114,Home Appliances,40501.96,236,18,6,4.5
+2115,Product_2115,Audio,31853.49,495,45,24,3.3
+2116,Product_2116,Accessories,43637.3,278,35,36,2.9
+2117,Product_2117,Wearables,40281.77,129,30,12,3
+2118,Product_2118,Home Appliances,9735.22,390,24,6,4.1
+2119,Product_2119,Accessories,44681.67,98,42,24,4.5
+2120,Product_2120,Smart Devices,27197.44,338,30,24,2.5
+2121,Product_2121,Smart Devices,40468.29,77,14,36,3.1
+2122,Product_2122,Accessories,44856.52,407,6,36,4.7
+2123,Product_2123,Smart Devices,16241.17,366,3,36,4.4
+2124,Product_2124,Home Appliances,5947.57,107,16,6,5
+2125,Product_2125,Wearables,11782.79,276,7,6,4.3
+2126,Product_2126,Home Appliances,21641.84,114,14,36,3.2
+2127,Product_2127,Home Appliances,40991.73,449,9,12,3.8
+2128,Product_2128,Accessories,43106.16,332,15,24,4
+2129,Product_2129,Audio,844.13,132,21,24,2.2
+2130,Product_2130,Audio,25781.99,485,35,6,3.6
+2131,Product_2131,Wearables,21161.84,38,2,24,4.1
+2132,Product_2132,Accessories,11494.34,146,27,12,2.5
+2133,Product_2133,Audio,6433.34,204,2,24,4.3
+2134,Product_2134,Smart Devices,17211.95,418,35,6,3.8
+2135,Product_2135,Audio,47174.03,235,18,6,4.9
+2136,Product_2136,Smart Devices,16498.55,341,14,12,2.1
+2137,Product_2137,Wearables,26180.14,179,20,12,2.8
+2138,Product_2138,Home Appliances,35299.44,18,18,24,3.8
+2139,Product_2139,Home Appliances,18499.67,472,10,24,2.9
+2140,Product_2140,Audio,48603.21,49,25,6,4.1
+2141,Product_2141,Smart Devices,48141.14,34,2,12,4.3
+2142,Product_2142,Electronics,12963.22,270,25,12,2.3
+2143,Product_2143,Electronics,25113.8,404,33,12,3.5
+2144,Product_2144,Electronics,15393.48,452,36,24,3.5
+2145,Product_2145,Home Appliances,14599.6,235,31,12,3.1
+2146,Product_2146,Accessories,2325.9,481,14,6,4.8
+2147,Product_2147,Home Appliances,30673.43,133,1,6,4.5
+2148,Product_2148,Accessories,25382.61,472,46,24,4.1
+2149,Product_2149,Smart Devices,3048.2,47,16,36,4.1
+2150,Product_2150,Audio,14293,337,46,24,3.4
+2151,Product_2151,Electronics,45459.16,260,3,36,4.8
+2152,Product_2152,Smart Devices,12358.31,398,35,12,4.1
+2153,Product_2153,Smart Devices,7672.3,185,41,24,4.2
+2154,Product_2154,Audio,24727.91,99,6,6,4.6
+2155,Product_2155,Smart Devices,49289.7,411,25,12,2.8
+2156,Product_2156,Audio,12481.74,463,13,6,4.4
+2157,Product_2157,Wearables,33770.71,46,34,12,2.6
+2158,Product_2158,Audio,38200.17,325,8,24,3
+2159,Product_2159,Electronics,12263.06,185,21,36,3
+2160,Product_2160,Accessories,36546.71,470,34,12,4.9
+2161,Product_2161,Accessories,18705.27,293,4,36,4.6
+2162,Product_2162,Electronics,31799.14,462,25,12,4.1
+2163,Product_2163,Accessories,31859.72,470,15,6,4.2
+2164,Product_2164,Audio,27020.85,90,4,6,3.7
+2165,Product_2165,Wearables,4969.34,123,45,12,4.8
+2166,Product_2166,Accessories,41847.47,49,12,36,3.5
+2167,Product_2167,Wearables,16378.61,310,32,24,3.1
+2168,Product_2168,Electronics,9732.67,233,32,24,2.5
+2169,Product_2169,Wearables,2518.37,327,28,6,4.4
+2170,Product_2170,Smart Devices,29749.2,358,13,24,4.2
+2171,Product_2171,Home Appliances,34039.44,124,31,6,3.2
+2172,Product_2172,Smart Devices,1321.1,195,14,24,2.1
+2173,Product_2173,Electronics,25848.61,332,20,12,4.5
+2174,Product_2174,Accessories,11711.54,65,18,6,2
+2175,Product_2175,Accessories,32436.05,49,29,6,4.1
+2176,Product_2176,Wearables,9131.14,363,6,12,4.9
+2177,Product_2177,Audio,34701.42,49,32,6,3.3
+2178,Product_2178,Home Appliances,19643.4,356,29,24,2.7
+2179,Product_2179,Audio,46868.13,470,43,24,4.1
+2180,Product_2180,Electronics,7307.29,246,2,6,4.5
+2181,Product_2181,Accessories,17382.78,298,23,24,3.6
+2182,Product_2182,Wearables,6116.94,271,19,36,4.9
+2183,Product_2183,Accessories,46272.33,225,31,6,2.2
+2184,Product_2184,Audio,43928.3,156,5,12,3.5
+2185,Product_2185,Audio,13268.11,345,19,36,4.2
+2186,Product_2186,Home Appliances,33169.21,177,34,6,4.6
+2187,Product_2187,Home Appliances,40952.5,101,10,12,2.5
+2188,Product_2188,Wearables,27982.44,362,25,24,4.4
+2189,Product_2189,Home Appliances,26717.7,68,2,12,3.7
+2190,Product_2190,Audio,12471.69,68,11,36,3.2
+2191,Product_2191,Audio,5108.59,313,50,24,2.4
+2192,Product_2192,Electronics,44912.18,178,31,6,4.6
+2193,Product_2193,Audio,45070.69,278,15,24,2.5
+2194,Product_2194,Wearables,31838.52,372,9,6,2.9
+2195,Product_2195,Smart Devices,17281.97,54,23,6,2.9
+2196,Product_2196,Electronics,17785.87,354,19,12,4.6
+2197,Product_2197,Electronics,36434.81,190,9,12,4
+2198,Product_2198,Wearables,44906.96,179,35,12,4.4
+2199,Product_2199,Wearables,44410.78,365,21,36,2.8
+2200,Product_2200,Home Appliances,39103.84,200,9,36,3.9
+2201,Product_2201,Electronics,32280.57,164,28,12,3.7
+2202,Product_2202,Home Appliances,4664.93,431,46,36,4.5
+2203,Product_2203,Audio,8500.62,197,7,24,4.7
+2204,Product_2204,Electronics,44978.43,16,16,24,2
+2205,Product_2205,Electronics,30518.24,142,16,36,4
+2206,Product_2206,Accessories,955.25,244,33,36,2.2
+2207,Product_2207,Smart Devices,5522.84,54,4,24,3.6
+2208,Product_2208,Electronics,33343.34,323,4,6,2.9
+2209,Product_2209,Audio,750.55,258,39,24,2.9
+2210,Product_2210,Home Appliances,8460,40,40,24,3.1
+2211,Product_2211,Home Appliances,27662.32,32,17,36,3.9
+2212,Product_2212,Accessories,34748.81,435,37,24,3
+2213,Product_2213,Smart Devices,32772.08,403,39,36,4.2
+2214,Product_2214,Audio,11601.33,169,29,36,3.2
+2215,Product_2215,Home Appliances,35752.87,372,36,12,2.2
+2216,Product_2216,Wearables,12243.83,446,38,24,4.4
+2217,Product_2217,Audio,16607.29,167,39,6,2.9
+2218,Product_2218,Audio,37451.32,48,50,12,3.3
+2219,Product_2219,Smart Devices,32656.83,424,37,36,4.1
+2220,Product_2220,Home Appliances,42536.56,91,35,36,3
+2221,Product_2221,Audio,33051.84,365,7,6,2.2
+2222,Product_2222,Accessories,28631.28,267,27,36,3.1
+2223,Product_2223,Accessories,5136.9,215,28,24,4.8
+2224,Product_2224,Home Appliances,18701.93,86,22,12,3.9
+2225,Product_2225,Accessories,13627.52,486,14,36,4
+2226,Product_2226,Wearables,12577.49,21,7,36,3.9
+2227,Product_2227,Smart Devices,48664.02,304,37,6,2.6
+2228,Product_2228,Accessories,19958.34,459,22,24,3.3
+2229,Product_2229,Accessories,44656.3,233,5,36,4.3
+2230,Product_2230,Wearables,31741.36,22,2,6,2.3
+2231,Product_2231,Smart Devices,39843.16,55,27,36,2.8
+2232,Product_2232,Audio,25380.54,164,21,6,2.8
+2233,Product_2233,Smart Devices,29056.74,122,38,6,3.3
+2234,Product_2234,Electronics,24879.63,242,15,24,4.9
+2235,Product_2235,Home Appliances,10164.53,26,21,36,2.2
+2236,Product_2236,Home Appliances,36261.38,369,10,24,3.6
+2237,Product_2237,Electronics,14398.23,232,23,6,2.5
+2238,Product_2238,Wearables,1703.64,363,39,12,4.9
+2239,Product_2239,Electronics,32450.88,197,5,36,2.3
+2240,Product_2240,Audio,9266.98,457,1,12,3.2
+2241,Product_2241,Audio,47052.7,353,13,36,4.2
+2242,Product_2242,Home Appliances,47719.46,374,21,24,4.1
+2243,Product_2243,Audio,45785.79,172,26,24,3.3
+2244,Product_2244,Home Appliances,18822.86,335,50,24,3
+2245,Product_2245,Electronics,1265.1,476,45,24,3.2
+2246,Product_2246,Electronics,46451.77,423,21,24,2.8
+2247,Product_2247,Accessories,21695.12,464,18,12,2.6
+2248,Product_2248,Accessories,48349.41,83,37,24,3.4
+2249,Product_2249,Electronics,48199.19,242,45,6,2.8
+2250,Product_2250,Home Appliances,42723.97,233,32,6,2.9
+2251,Product_2251,Electronics,15075.22,491,36,12,4
+2252,Product_2252,Electronics,19562.34,328,17,36,4.9
+2253,Product_2253,Wearables,42631.27,421,35,6,3.8
+2254,Product_2254,Electronics,16187.64,69,49,36,2.2
+2255,Product_2255,Audio,8889.89,344,11,12,2.2
+2256,Product_2256,Home Appliances,28061.66,231,21,36,4.9
+2257,Product_2257,Wearables,46839.66,46,26,36,2.9
+2258,Product_2258,Accessories,34953.47,486,4,36,2.3
+2259,Product_2259,Smart Devices,28718.03,287,34,36,3.8
+2260,Product_2260,Home Appliances,5310.24,205,48,12,3.9
+2261,Product_2261,Audio,30942.86,413,18,6,3.9
+2262,Product_2262,Home Appliances,49507.67,361,40,24,2.8
+2263,Product_2263,Accessories,7434.16,493,35,36,2
+2264,Product_2264,Audio,26157.32,251,41,6,4.9
+2265,Product_2265,Audio,43929.97,333,29,6,2.8
+2266,Product_2266,Smart Devices,37168.05,228,29,12,4
+2267,Product_2267,Home Appliances,35002.28,201,38,6,4.1
+2268,Product_2268,Smart Devices,35272.96,26,42,12,3.8
+2269,Product_2269,Smart Devices,18294.81,21,21,36,2.9
+2270,Product_2270,Home Appliances,15032.8,415,42,36,2.8
+2271,Product_2271,Electronics,40563.38,410,13,24,3.8
+2272,Product_2272,Electronics,40600.61,403,49,24,4.6
+2273,Product_2273,Accessories,43420.08,383,41,24,4.8
+2274,Product_2274,Smart Devices,45705.41,202,17,6,2.3
+2275,Product_2275,Wearables,25811.45,31,9,36,2.5
+2276,Product_2276,Smart Devices,25325.06,483,41,12,4.8
+2277,Product_2277,Smart Devices,40015.61,129,1,24,4.2
+2278,Product_2278,Smart Devices,32673.21,219,2,12,4.6
+2279,Product_2279,Accessories,35247.36,315,48,12,2.6
+2280,Product_2280,Electronics,39891.74,279,29,24,3.8
+2281,Product_2281,Accessories,44555.26,201,33,36,4.1
+2282,Product_2282,Accessories,17230.76,184,10,24,4
+2283,Product_2283,Accessories,19091.36,294,50,12,3.2
+2284,Product_2284,Electronics,5152.11,213,40,24,2
+2285,Product_2285,Electronics,29124.87,173,21,12,3.7
+2286,Product_2286,Smart Devices,2279.14,260,28,12,2.8
+2287,Product_2287,Accessories,23547.1,236,11,24,3.4
+2288,Product_2288,Wearables,27360.91,445,34,6,4.9
+2289,Product_2289,Electronics,14683.79,390,8,24,3.2
+2290,Product_2290,Home Appliances,29746.25,469,22,6,4.5
+2291,Product_2291,Home Appliances,2009.76,16,8,12,2.6
+2292,Product_2292,Home Appliances,2348.74,38,49,12,4
+2293,Product_2293,Audio,41218.73,404,15,6,4.9
+2294,Product_2294,Smart Devices,18329.44,42,17,12,2.3
+2295,Product_2295,Home Appliances,6789.5,143,23,6,2
+2296,Product_2296,Smart Devices,26351.04,376,24,6,3.3
+2297,Product_2297,Home Appliances,38614.68,88,45,12,2.3
+2298,Product_2298,Wearables,11183.14,425,19,36,4.2
+2299,Product_2299,Smart Devices,31333.08,444,5,6,4.7
+2300,Product_2300,Home Appliances,4724.7,468,32,24,3.3
+2301,Product_2301,Electronics,3058.25,67,44,24,2.8
+2302,Product_2302,Smart Devices,26802.05,480,1,12,3.3
+2303,Product_2303,Audio,27261.44,35,23,36,4.2
+2304,Product_2304,Electronics,32052.78,491,37,12,2
+2305,Product_2305,Electronics,36441.52,439,8,36,3.8
+2306,Product_2306,Accessories,48804.68,235,13,6,3.8
+2307,Product_2307,Audio,26056.87,294,8,6,3.9
+2308,Product_2308,Electronics,16486.35,13,23,6,2.7
+2309,Product_2309,Electronics,39861.72,474,43,6,4.1
+2310,Product_2310,Home Appliances,13906.2,108,1,24,2.3
+2311,Product_2311,Home Appliances,22229.09,406,45,24,2.6
+2312,Product_2312,Smart Devices,4383.59,498,24,12,4.6
+2313,Product_2313,Smart Devices,1754.86,48,35,36,4.2
+2314,Product_2314,Smart Devices,48151.1,280,24,6,2
+2315,Product_2315,Home Appliances,41881.02,384,17,6,2.7
+2316,Product_2316,Smart Devices,34950.72,294,5,36,2.6
+2317,Product_2317,Electronics,20743.17,166,20,36,2.8
+2318,Product_2318,Home Appliances,9078.07,84,21,12,2.7
+2319,Product_2319,Smart Devices,8243.63,381,40,36,2.2
+2320,Product_2320,Electronics,12887.02,297,31,6,3.4
+2321,Product_2321,Smart Devices,27686.72,139,46,6,4.2
+2322,Product_2322,Wearables,35872.5,184,36,6,3.8
+2323,Product_2323,Smart Devices,33179.77,471,11,6,4
+2324,Product_2324,Wearables,14356.73,93,15,6,2.2
+2325,Product_2325,Smart Devices,47765.83,31,19,12,4.9
+2326,Product_2326,Accessories,37025.9,468,7,6,4.5
+2327,Product_2327,Accessories,27940.53,36,28,12,4.4
+2328,Product_2328,Audio,30780.18,204,43,6,4.5
+2329,Product_2329,Accessories,21270.2,346,5,24,4.8
+2330,Product_2330,Accessories,12762.68,391,5,24,3.6
+2331,Product_2331,Smart Devices,18120.65,245,30,24,2.6
+2332,Product_2332,Home Appliances,38013.38,449,32,24,3.9
+2333,Product_2333,Home Appliances,1212.48,101,8,12,4.2
+2334,Product_2334,Wearables,6245.6,486,10,12,4.2
+2335,Product_2335,Home Appliances,2777.13,30,38,36,3.6
+2336,Product_2336,Electronics,2516.08,312,47,6,2.2
+2337,Product_2337,Audio,42845.3,473,32,24,3.1
+2338,Product_2338,Accessories,35331.06,366,48,12,4.8
+2339,Product_2339,Audio,23971.6,452,28,6,3.8
+2340,Product_2340,Electronics,5342.79,93,17,6,3.6
+2341,Product_2341,Accessories,24834.99,271,31,12,2.8
+2342,Product_2342,Wearables,23936.85,156,8,24,3.1
+2343,Product_2343,Electronics,9073.49,450,40,36,4.7
+2344,Product_2344,Electronics,21975.66,462,25,6,4
+2345,Product_2345,Audio,20225.98,396,9,36,4.4
+2346,Product_2346,Smart Devices,30984.58,266,2,24,3.4
+2347,Product_2347,Audio,31937.14,67,15,24,3.9
+2348,Product_2348,Audio,2742.55,389,50,36,2.7
+2349,Product_2349,Home Appliances,19043.32,431,3,24,4.1
+2350,Product_2350,Electronics,31480.07,24,49,6,3.3
+2351,Product_2351,Audio,25405.24,171,36,36,3.3
+2352,Product_2352,Electronics,42896.25,454,4,24,3.9
+2353,Product_2353,Home Appliances,33105.33,172,14,36,4.8
+2354,Product_2354,Electronics,8565.25,329,41,6,2.2
+2355,Product_2355,Audio,3993.15,290,41,24,4.5
+2356,Product_2356,Electronics,32299.75,289,25,6,2.9
+2357,Product_2357,Accessories,1812.31,21,50,24,3.3
+2358,Product_2358,Home Appliances,29495.89,283,10,12,2.1
+2359,Product_2359,Smart Devices,47041.4,280,21,24,2.9
+2360,Product_2360,Electronics,28985.97,217,36,36,3.5
+2361,Product_2361,Audio,19714.41,36,12,24,2.2
+2362,Product_2362,Home Appliances,32342.77,81,27,6,3.5
+2363,Product_2363,Audio,23183.52,69,40,6,4.8
+2364,Product_2364,Audio,27508.03,439,2,24,2.3
+2365,Product_2365,Electronics,47102.51,482,13,36,4.3
+2366,Product_2366,Audio,19612.08,154,32,12,3.2
+2367,Product_2367,Electronics,48078.93,102,31,36,4
+2368,Product_2368,Smart Devices,45314.86,318,16,12,2.8
+2369,Product_2369,Accessories,10191.66,17,32,6,2.5
+2370,Product_2370,Audio,3933.38,88,32,36,2.5
+2371,Product_2371,Audio,5488.51,36,34,12,2.2
+2372,Product_2372,Audio,1401.98,183,11,24,2.6
+2373,Product_2373,Wearables,5174.93,59,10,6,4
+2374,Product_2374,Wearables,34308.84,208,15,24,4.6
+2375,Product_2375,Home Appliances,4023.84,396,17,6,4.4
+2376,Product_2376,Accessories,16289.29,358,40,36,4.1
+2377,Product_2377,Accessories,42321.33,457,18,36,2.3
+2378,Product_2378,Wearables,1651.96,437,9,6,2.9
+2379,Product_2379,Home Appliances,40816.19,190,25,6,2.9
+2380,Product_2380,Wearables,14451.81,33,40,6,2.7
+2381,Product_2381,Smart Devices,6349.16,325,14,36,3.5
+2382,Product_2382,Home Appliances,34988.49,387,25,12,3.6
+2383,Product_2383,Accessories,31632.67,396,50,24,3.1
+2384,Product_2384,Accessories,43934.86,413,22,24,3.1
+2385,Product_2385,Wearables,36886.02,55,30,36,4.5
+2386,Product_2386,Smart Devices,40272.31,24,20,24,4.4
+2387,Product_2387,Wearables,14460.71,162,21,6,2.9
+2388,Product_2388,Electronics,9283.26,231,44,12,4.7
+2389,Product_2389,Electronics,37655.43,215,32,24,4.9
+2390,Product_2390,Smart Devices,40438.32,464,46,12,3
+2391,Product_2391,Audio,49530,282,49,6,3.1
+2392,Product_2392,Audio,20924.58,391,21,24,3.5
+2393,Product_2393,Electronics,18914.9,245,35,36,4.8
+2394,Product_2394,Electronics,38932.44,349,32,12,4.6
+2395,Product_2395,Audio,17369.78,237,30,6,2.3
+2396,Product_2396,Home Appliances,46572.49,18,39,12,3.2
+2397,Product_2397,Audio,42991.43,175,49,24,3.7
+2398,Product_2398,Wearables,21735.2,441,12,24,3.5
+2399,Product_2399,Home Appliances,37668.12,453,41,36,2.6
+2400,Product_2400,Wearables,37849.87,328,47,6,4.6
+2401,Product_2401,Electronics,5604.63,223,18,6,4
+2402,Product_2402,Home Appliances,45176.37,126,21,36,4.5
+2403,Product_2403,Wearables,25509.99,395,13,36,4.6
+2404,Product_2404,Wearables,41409.64,353,21,6,4.2
+2405,Product_2405,Home Appliances,16342.46,81,8,12,3.3
+2406,Product_2406,Smart Devices,44828.4,404,46,12,3.8
+2407,Product_2407,Audio,19765.48,73,40,36,2.5
+2408,Product_2408,Accessories,1036.46,214,46,12,4
+2409,Product_2409,Wearables,45316.41,218,7,6,2.5
+2410,Product_2410,Audio,5018.69,81,23,24,4.1
+2411,Product_2411,Accessories,16306.03,286,44,24,2.7
+2412,Product_2412,Audio,47528.07,283,32,12,2.4
+2413,Product_2413,Electronics,47555.05,487,11,36,2.5
+2414,Product_2414,Accessories,28885.18,329,22,36,2
+2415,Product_2415,Audio,31775.94,347,22,36,4.2
+2416,Product_2416,Wearables,22698.05,375,43,36,4.2
+2417,Product_2417,Accessories,15013.93,104,25,36,3.5
+2418,Product_2418,Electronics,16768.89,175,22,12,2.5
+2419,Product_2419,Home Appliances,33789.66,41,28,24,2.3
+2420,Product_2420,Wearables,37742.54,20,29,24,2.1
+2421,Product_2421,Electronics,39683.16,310,13,12,2.5
+2422,Product_2422,Electronics,39586.1,226,18,36,4.7
+2423,Product_2423,Accessories,5014.7,298,2,12,2.7
+2424,Product_2424,Audio,24973.81,111,29,24,3.1
+2425,Product_2425,Home Appliances,3349.16,434,21,6,2.3
+2426,Product_2426,Wearables,27701.68,401,15,12,2.7
+2427,Product_2427,Wearables,22355.76,276,27,36,3.6
+2428,Product_2428,Audio,44441.36,223,50,24,3.8
+2429,Product_2429,Home Appliances,17870.29,188,31,24,2.7
+2430,Product_2430,Accessories,6294.82,97,15,24,2.2
+2431,Product_2431,Wearables,7578.09,50,23,24,3.2
+2432,Product_2432,Home Appliances,38194.78,410,24,36,2.7
+2433,Product_2433,Accessories,31101.79,85,44,6,2.7
+2434,Product_2434,Accessories,5505.57,386,13,24,4.9
+2435,Product_2435,Wearables,4663.29,55,22,12,3.8
+2436,Product_2436,Audio,35197.97,169,43,6,3.7
+2437,Product_2437,Smart Devices,4101.77,472,37,24,3.2
+2438,Product_2438,Wearables,41182.07,89,33,6,3.3
+2439,Product_2439,Electronics,35458.99,319,3,12,3.6
+2440,Product_2440,Electronics,4526.76,95,19,24,4.1
+2441,Product_2441,Accessories,4699.47,101,23,12,4.1
+2442,Product_2442,Smart Devices,49338.66,157,29,36,2.5
+2443,Product_2443,Wearables,19026.4,170,30,24,3.5
+2444,Product_2444,Electronics,18846.79,211,39,24,3.2
+2445,Product_2445,Electronics,40733.58,433,44,24,4.6
+2446,Product_2446,Wearables,47388.8,425,47,24,3.9
+2447,Product_2447,Home Appliances,49307.05,251,25,36,3.6
+2448,Product_2448,Accessories,37792.22,362,37,24,2.3
+2449,Product_2449,Wearables,19124.85,11,47,6,3.8
+2450,Product_2450,Home Appliances,4633.29,234,8,24,2.4
+2451,Product_2451,Accessories,38968.77,298,42,36,3
+2452,Product_2452,Smart Devices,28141.01,242,16,24,2.4
+2453,Product_2453,Audio,21498.99,470,8,6,4.1
+2454,Product_2454,Accessories,45364.54,423,1,36,2.6
+2455,Product_2455,Smart Devices,6004.28,426,44,36,3.2
+2456,Product_2456,Audio,24884.94,86,5,6,4.7
+2457,Product_2457,Electronics,1062.01,125,3,6,2.6
+2458,Product_2458,Electronics,23698.7,163,1,6,3.5
+2459,Product_2459,Electronics,3287.01,415,4,6,3.3
+2460,Product_2460,Accessories,6381.49,112,40,6,2.1
+2461,Product_2461,Home Appliances,6317.55,203,35,36,4.4
+2462,Product_2462,Audio,32635.91,175,32,36,2.2
+2463,Product_2463,Electronics,37429.22,368,42,24,3.4
+2464,Product_2464,Wearables,29376.75,99,34,24,3.7
+2465,Product_2465,Audio,48127.54,183,43,12,3.9
+2466,Product_2466,Audio,19056.09,131,25,24,4.1
+2467,Product_2467,Home Appliances,14642.75,152,10,24,2.8
+2468,Product_2468,Smart Devices,43495.66,491,21,6,2
+2469,Product_2469,Home Appliances,11567.99,115,46,6,4.2
+2470,Product_2470,Electronics,48179.52,384,39,24,3.6
+2471,Product_2471,Wearables,1101.65,437,27,12,4.5
+2472,Product_2472,Wearables,48509,314,27,6,4.5
+2473,Product_2473,Electronics,2636.42,369,2,24,4.5
+2474,Product_2474,Wearables,44611.58,468,41,24,3.5
+2475,Product_2475,Home Appliances,26621.2,326,48,36,3
+2476,Product_2476,Accessories,49651.76,460,13,12,4.4
+2477,Product_2477,Home Appliances,4152.93,132,9,36,3.4
+2478,Product_2478,Accessories,27915.79,399,36,12,2.6
+2479,Product_2479,Electronics,48480.48,18,22,6,4.6
+2480,Product_2480,Wearables,26393.34,271,42,12,4.6
+2481,Product_2481,Audio,31655.23,82,26,24,3.4
+2482,Product_2482,Smart Devices,34939.56,368,12,24,2.2
+2483,Product_2483,Audio,22999.78,232,17,12,3.2
+2484,Product_2484,Accessories,31564.12,425,14,12,4.4
+2485,Product_2485,Home Appliances,29423.56,50,14,12,4.7
+2486,Product_2486,Home Appliances,45107.32,379,34,36,2.6
+2487,Product_2487,Home Appliances,2749.6,213,20,12,2.2
+2488,Product_2488,Home Appliances,14407.68,273,11,6,4.6
+2489,Product_2489,Smart Devices,47545.37,337,16,36,3.2
+2490,Product_2490,Electronics,44568.06,187,31,36,3.6
+2491,Product_2491,Home Appliances,23055.01,357,6,12,4.9
+2492,Product_2492,Accessories,31196.56,327,19,6,2.2
+2493,Product_2493,Wearables,14230.37,93,37,36,3.9
+2494,Product_2494,Smart Devices,9812,327,4,24,2.2
+2495,Product_2495,Accessories,23453.07,120,47,36,3.1
+2496,Product_2496,Accessories,17990.94,260,4,12,4.4
+2497,Product_2497,Home Appliances,29390.98,392,20,6,3.3
+2498,Product_2498,Wearables,4347.86,16,10,12,5
+2499,Product_2499,Home Appliances,48732.54,468,24,24,3.7
+2500,Product_2500,Accessories,49317.43,93,35,24,3
+2501,Product_2501,Electronics,35059,217,26,24,2.7
+2502,Product_2502,Smart Devices,27036.77,397,37,12,3.1
+2503,Product_2503,Electronics,15821.62,399,38,36,3.1
+2504,Product_2504,Smart Devices,40782.85,323,21,12,2.2
+2505,Product_2505,Home Appliances,34394.19,31,40,6,3.1
+2506,Product_2506,Home Appliances,8549.54,419,39,36,3.4
+2507,Product_2507,Smart Devices,45590.9,392,21,24,4.2
+2508,Product_2508,Wearables,41215.59,12,10,12,4
+2509,Product_2509,Wearables,47515.1,136,38,24,4.1
+2510,Product_2510,Home Appliances,36423.12,306,46,24,2
+2511,Product_2511,Home Appliances,30864.05,197,4,6,2.7
+2512,Product_2512,Electronics,21203.03,371,45,36,4
+2513,Product_2513,Accessories,46670.06,23,20,6,3.5
+2514,Product_2514,Home Appliances,43370.16,468,17,6,2
+2515,Product_2515,Smart Devices,2738.32,475,7,6,4.4
+2516,Product_2516,Wearables,1805.17,21,4,24,4.3
+2517,Product_2517,Wearables,19134.94,96,29,6,3.6
+2518,Product_2518,Electronics,40622.39,21,14,6,2.2
+2519,Product_2519,Wearables,49370.17,406,3,36,4.3
+2520,Product_2520,Wearables,7945.64,34,24,36,3.8
+2521,Product_2521,Accessories,29909.47,310,37,6,4.3
+2522,Product_2522,Audio,19354.1,252,16,36,4.3
+2523,Product_2523,Smart Devices,48510.76,131,4,36,4.4
+2524,Product_2524,Accessories,42184.89,156,24,6,3.6
+2525,Product_2525,Audio,41997.27,64,34,24,2.4
+2526,Product_2526,Wearables,23700.31,247,30,6,4
+2527,Product_2527,Electronics,21033.57,365,18,36,3.9
+2528,Product_2528,Electronics,14033.65,182,19,24,4.2
+2529,Product_2529,Wearables,3290.59,401,31,12,2.5
+2530,Product_2530,Home Appliances,43303.76,230,19,24,2.6
+2531,Product_2531,Audio,40738.6,128,49,36,4.7
+2532,Product_2532,Wearables,49986.02,318,46,24,4.2
+2533,Product_2533,Electronics,49833.52,192,19,6,4.7
+2534,Product_2534,Electronics,27993.87,297,22,12,4.3
+2535,Product_2535,Audio,38564.88,316,24,12,3.8
+2536,Product_2536,Smart Devices,47265.9,309,45,12,4
+2537,Product_2537,Wearables,42557.55,91,12,36,4.7
+2538,Product_2538,Accessories,12743.73,463,30,36,3.7
+2539,Product_2539,Wearables,22801.93,411,38,12,3.9
+2540,Product_2540,Smart Devices,6893.39,220,31,24,2.5
+2541,Product_2541,Audio,47725.53,159,36,12,3.4
+2542,Product_2542,Audio,30505.64,46,19,24,4.1
+2543,Product_2543,Electronics,11817.82,361,48,24,2.8
+2544,Product_2544,Smart Devices,33749.18,321,45,36,2.6
+2545,Product_2545,Audio,31097.35,370,36,24,2.9
+2546,Product_2546,Home Appliances,18229.05,68,30,12,2.7
+2547,Product_2547,Wearables,6121.1,140,49,36,2.6
+2548,Product_2548,Electronics,33742.87,421,33,6,3.3
+2549,Product_2549,Accessories,26255.23,211,18,6,4.7
+2550,Product_2550,Smart Devices,38729.76,252,49,36,3.5
+2551,Product_2551,Electronics,26248.09,44,28,12,2.6
+2552,Product_2552,Audio,42682.98,454,47,6,2.2
+2553,Product_2553,Audio,27819.39,102,11,6,4.1
+2554,Product_2554,Accessories,28266.43,447,45,24,3.1
+2555,Product_2555,Accessories,43894.35,456,33,24,4.5
+2556,Product_2556,Accessories,20472.4,216,17,12,4
+2557,Product_2557,Accessories,7133.75,362,6,36,4.4
+2558,Product_2558,Accessories,1924.74,400,4,12,2.8
+2559,Product_2559,Home Appliances,37879.29,341,20,36,4.1
+2560,Product_2560,Wearables,31205.32,314,48,6,2.8
+2561,Product_2561,Smart Devices,35351.95,359,47,24,4.8
+2562,Product_2562,Electronics,11041.73,222,27,12,3.9
+2563,Product_2563,Accessories,7250.39,168,15,12,3
+2564,Product_2564,Wearables,1219.96,451,6,36,2.8
+2565,Product_2565,Audio,17854.08,454,47,36,2.6
+2566,Product_2566,Wearables,29700.93,33,14,12,4.1
+2567,Product_2567,Accessories,19916.08,413,11,36,2.7
+2568,Product_2568,Electronics,22155.01,302,39,12,3.8
+2569,Product_2569,Accessories,45255.86,13,9,12,2.8
+2570,Product_2570,Wearables,17738.65,229,26,12,4
+2571,Product_2571,Audio,25942.48,373,16,6,4.4
+2572,Product_2572,Wearables,39290.82,391,5,36,4.3
+2573,Product_2573,Accessories,20128.87,29,10,24,4.3
+2574,Product_2574,Smart Devices,31293.29,453,50,24,2.6
+2575,Product_2575,Wearables,43187,161,3,36,2.3
+2576,Product_2576,Smart Devices,47501.27,59,13,12,4.1
+2577,Product_2577,Accessories,7780.14,186,43,24,3.1
+2578,Product_2578,Wearables,46366.09,444,49,24,3.3
+2579,Product_2579,Audio,24859.76,105,30,36,2.1
+2580,Product_2580,Home Appliances,13283.1,114,45,24,2.8
+2581,Product_2581,Home Appliances,23227.22,429,6,12,2.1
+2582,Product_2582,Smart Devices,49011.61,259,17,36,4.6
+2583,Product_2583,Accessories,24884.6,126,45,12,2.7
+2584,Product_2584,Smart Devices,16773.2,363,19,24,3.7
+2585,Product_2585,Accessories,31853.34,237,42,24,2.1
+2586,Product_2586,Accessories,12387.21,75,35,12,4
+2587,Product_2587,Home Appliances,4255.23,344,46,6,3
+2588,Product_2588,Audio,6879.55,427,26,24,4.7
+2589,Product_2589,Audio,6838.27,429,5,6,4.7
+2590,Product_2590,Wearables,8019.18,271,29,24,3
+2591,Product_2591,Smart Devices,7371.95,304,37,6,4.7
+2592,Product_2592,Audio,32223.3,435,20,6,5
+2593,Product_2593,Electronics,9503.06,252,49,6,4.5
+2594,Product_2594,Wearables,17610.53,380,21,12,4.5
+2595,Product_2595,Wearables,44891.03,195,10,6,2.7
+2596,Product_2596,Home Appliances,23961.1,255,5,6,3.7
+2597,Product_2597,Smart Devices,33544.11,134,36,6,2.2
+2598,Product_2598,Audio,9029.83,277,6,24,2.3
+2599,Product_2599,Audio,10018.31,140,26,6,5
+2600,Product_2600,Accessories,2523,246,4,24,3
+2601,Product_2601,Wearables,8862.29,27,39,6,4.2
+2602,Product_2602,Smart Devices,14290.22,49,39,6,4.4
+2603,Product_2603,Smart Devices,9262.02,30,50,12,4.6
+2604,Product_2604,Smart Devices,4890.78,408,35,24,5
+2605,Product_2605,Accessories,6471.48,234,1,6,2.7
+2606,Product_2606,Home Appliances,23308.55,364,24,24,2.1
+2607,Product_2607,Audio,10713.52,291,36,24,3.2
+2608,Product_2608,Smart Devices,18531.36,17,6,36,2.4
+2609,Product_2609,Accessories,25419.15,109,41,12,2.1
+2610,Product_2610,Home Appliances,34674.54,249,46,12,3.1
+2611,Product_2611,Accessories,2445.95,487,44,12,4.4
+2612,Product_2612,Electronics,40070.81,96,31,36,3.7
+2613,Product_2613,Wearables,31581.07,307,20,36,2.9
+2614,Product_2614,Audio,4547.07,437,24,12,4
+2615,Product_2615,Accessories,43742.14,23,25,36,2.7
+2616,Product_2616,Accessories,46083.18,343,36,36,2
+2617,Product_2617,Audio,3523.36,11,21,36,4.3
+2618,Product_2618,Wearables,14205.44,384,30,12,3.9
+2619,Product_2619,Electronics,40406.96,302,24,12,4.3
+2620,Product_2620,Home Appliances,37538.85,334,44,12,2.1
+2621,Product_2621,Accessories,9633.79,431,42,36,4.5
+2622,Product_2622,Wearables,10862.79,50,30,12,3.9
+2623,Product_2623,Home Appliances,18838.37,327,22,36,3.7
+2624,Product_2624,Home Appliances,24483.89,325,28,6,3.9
+2625,Product_2625,Home Appliances,31103.61,390,7,36,4.6
+2626,Product_2626,Electronics,18761.23,120,35,24,3.8
+2627,Product_2627,Electronics,23395.47,23,28,12,3.7
+2628,Product_2628,Home Appliances,37499.81,240,14,12,5
+2629,Product_2629,Smart Devices,2315.82,482,10,24,4.3
+2630,Product_2630,Audio,12995.63,93,16,36,3.3
+2631,Product_2631,Electronics,35810.8,139,16,6,4.1
+2632,Product_2632,Smart Devices,44812.74,240,31,24,3.2
+2633,Product_2633,Smart Devices,25828.03,335,42,24,2.7
+2634,Product_2634,Accessories,26839.62,154,25,36,3.8
+2635,Product_2635,Audio,5805.01,388,13,12,4.8
+2636,Product_2636,Home Appliances,22646.91,354,6,36,4.8
+2637,Product_2637,Accessories,26864.55,37,44,24,3
+2638,Product_2638,Accessories,12502.29,75,9,24,3.6
+2639,Product_2639,Smart Devices,13827.54,172,45,12,2.6
+2640,Product_2640,Smart Devices,19175.57,238,36,12,5
+2641,Product_2641,Smart Devices,1493.52,270,43,12,4.9
+2642,Product_2642,Home Appliances,16442.92,458,20,36,3.9
+2643,Product_2643,Home Appliances,10966.68,433,18,12,4.4
+2644,Product_2644,Accessories,16711.12,469,43,24,4.1
+2645,Product_2645,Accessories,6428.23,449,21,24,3.8
+2646,Product_2646,Electronics,44581.1,173,4,6,2.2
+2647,Product_2647,Electronics,29882.83,310,50,36,3.4
+2648,Product_2648,Smart Devices,34115.56,416,33,6,4
+2649,Product_2649,Home Appliances,39563.98,312,27,24,4
+2650,Product_2650,Home Appliances,25172.89,296,7,6,3.1
+2651,Product_2651,Accessories,4802.55,404,6,24,4.8
+2652,Product_2652,Audio,27086.77,19,15,6,2.5
+2653,Product_2653,Smart Devices,29548.64,204,18,12,3.5
+2654,Product_2654,Electronics,37399.25,127,32,6,4.1
+2655,Product_2655,Audio,21867.15,279,11,12,4.1
+2656,Product_2656,Home Appliances,6815.22,89,20,12,3.9
+2657,Product_2657,Electronics,14546.91,467,24,36,2.8
+2658,Product_2658,Smart Devices,18472.57,102,15,12,2.5
+2659,Product_2659,Home Appliances,32472.9,275,48,12,3.9
+2660,Product_2660,Smart Devices,28753.53,341,7,6,3.8
+2661,Product_2661,Accessories,18126.79,359,21,24,2.5
+2662,Product_2662,Audio,49332.5,370,42,36,4.1
+2663,Product_2663,Audio,30485.85,266,26,12,3.4
+2664,Product_2664,Audio,12242.73,142,44,36,4
+2665,Product_2665,Wearables,5538.23,285,14,6,4.5
+2666,Product_2666,Smart Devices,8066.53,273,37,12,2.5
+2667,Product_2667,Audio,12674.91,180,21,6,2.1
+2668,Product_2668,Accessories,8453.73,469,18,36,4.3
+2669,Product_2669,Audio,9735.07,10,5,6,3.8
+2670,Product_2670,Smart Devices,14612.21,322,3,36,4.1
+2671,Product_2671,Audio,9081.99,73,23,6,4.5
+2672,Product_2672,Smart Devices,44889.89,383,26,36,4.4
+2673,Product_2673,Home Appliances,4471.57,477,37,24,4.9
+2674,Product_2674,Accessories,26463.31,293,24,6,3.6
+2675,Product_2675,Smart Devices,20814.64,130,49,6,3.5
+2676,Product_2676,Smart Devices,49127.74,116,19,24,3.2
+2677,Product_2677,Wearables,6045.93,430,25,24,2.5
+2678,Product_2678,Home Appliances,20193.85,184,21,6,3.7
+2679,Product_2679,Accessories,48488.79,494,12,24,2.8
+2680,Product_2680,Wearables,43342.6,213,41,12,4.8
+2681,Product_2681,Audio,40945.07,174,33,36,3.7
+2682,Product_2682,Smart Devices,13266.19,314,50,36,3.8
+2683,Product_2683,Accessories,8958.94,129,4,36,3.1
+2684,Product_2684,Home Appliances,33597.84,53,42,12,2.2
+2685,Product_2685,Wearables,46504.11,321,7,24,2.1
+2686,Product_2686,Smart Devices,28059.76,165,22,24,3.3
+2687,Product_2687,Electronics,28794.83,376,33,6,2.3
+2688,Product_2688,Accessories,14358.97,216,17,24,3.8
+2689,Product_2689,Wearables,38589.9,399,24,6,4.6
+2690,Product_2690,Home Appliances,9758.67,117,34,12,4.6
+2691,Product_2691,Wearables,16522.12,260,28,36,4
+2692,Product_2692,Wearables,21559.1,454,43,36,2.6
+2693,Product_2693,Wearables,25626.71,413,41,36,4.6
+2694,Product_2694,Audio,12499.28,379,39,24,4.7
+2695,Product_2695,Electronics,6184.42,343,22,6,2.6
+2696,Product_2696,Home Appliances,30725.69,139,49,6,4.2
+2697,Product_2697,Home Appliances,14787.21,466,17,12,2.9
+2698,Product_2698,Home Appliances,29271.29,302,34,24,4.4
+2699,Product_2699,Smart Devices,8140.95,29,6,12,5
+2700,Product_2700,Accessories,24316.44,291,46,6,2.1
+2701,Product_2701,Home Appliances,26863.18,294,6,6,4.7
+2702,Product_2702,Accessories,3065.27,10,34,36,3.9
+2703,Product_2703,Home Appliances,17161.91,128,1,24,4.9
+2704,Product_2704,Electronics,7153.53,44,10,6,3.4
+2705,Product_2705,Smart Devices,3637.06,207,21,36,4.5
+2706,Product_2706,Smart Devices,49503.03,494,5,24,2.2
+2707,Product_2707,Wearables,16456.52,254,2,12,3
+2708,Product_2708,Audio,40588.79,68,22,24,2.2
+2709,Product_2709,Smart Devices,13104.71,334,48,24,4.9
+2710,Product_2710,Smart Devices,34234.38,170,2,6,4.5
+2711,Product_2711,Electronics,38131.28,188,10,6,4.6
+2712,Product_2712,Home Appliances,29984.12,215,34,24,4.8
+2713,Product_2713,Smart Devices,23843.02,21,16,6,2.3
+2714,Product_2714,Smart Devices,20886.13,499,48,6,3.2
+2715,Product_2715,Audio,17768.98,285,39,6,2.2
+2716,Product_2716,Accessories,46511.69,190,22,36,2.6
+2717,Product_2717,Electronics,41615.66,251,12,36,2.7
+2718,Product_2718,Audio,48268.83,225,24,24,3.4
+2719,Product_2719,Smart Devices,6652.71,260,47,6,2.8
+2720,Product_2720,Smart Devices,36677.94,308,40,36,2.3
+2721,Product_2721,Electronics,46947.85,135,38,24,2.5
+2722,Product_2722,Wearables,9471.04,491,10,6,2.4
+2723,Product_2723,Wearables,3791.57,226,35,12,4.9
+2724,Product_2724,Smart Devices,37185.47,315,49,6,4.3
+2725,Product_2725,Smart Devices,28936.42,294,32,6,4.9
+2726,Product_2726,Audio,42170.52,194,7,36,3.3
+2727,Product_2727,Accessories,7418.73,48,21,24,2.8
+2728,Product_2728,Accessories,39865.73,232,20,24,4.4
+2729,Product_2729,Audio,10480.55,193,26,36,3
+2730,Product_2730,Audio,8600.97,436,4,6,2.9
+2731,Product_2731,Home Appliances,8631.16,187,46,12,2.7
+2732,Product_2732,Smart Devices,40821.45,416,22,6,2.4
+2733,Product_2733,Home Appliances,33427.26,437,15,6,2.8
+2734,Product_2734,Wearables,26391.74,303,40,12,3.1
+2735,Product_2735,Smart Devices,18262.11,349,21,36,4
+2736,Product_2736,Smart Devices,43921.43,160,15,24,2.2
+2737,Product_2737,Electronics,19926.03,393,22,36,2.6
+2738,Product_2738,Smart Devices,40921.67,135,28,36,4.4
+2739,Product_2739,Wearables,22237.18,310,14,6,2.4
+2740,Product_2740,Accessories,19158.75,317,27,24,3
+2741,Product_2741,Accessories,23402.65,345,41,24,4.6
+2742,Product_2742,Smart Devices,15418.2,443,40,36,2.5
+2743,Product_2743,Accessories,37506.66,243,28,12,2.2
+2744,Product_2744,Home Appliances,25384.66,389,26,36,3.5
+2745,Product_2745,Smart Devices,11994.53,384,49,12,2.9
+2746,Product_2746,Home Appliances,45028.94,17,2,24,3.7
+2747,Product_2747,Audio,19502.62,350,25,36,4.4
+2748,Product_2748,Audio,27405.87,138,3,6,2.4
+2749,Product_2749,Electronics,45370.37,273,8,36,3.7
+2750,Product_2750,Smart Devices,31399.78,166,44,24,3.5
+2751,Product_2751,Audio,6286.45,361,33,6,2.4
+2752,Product_2752,Audio,47021.69,367,42,6,3.9
+2753,Product_2753,Accessories,31571.55,14,35,12,2.8
+2754,Product_2754,Electronics,17077.83,95,6,6,3.5
+2755,Product_2755,Electronics,7393.97,184,39,6,2.2
+2756,Product_2756,Accessories,39804.25,299,23,36,3.4
+2757,Product_2757,Smart Devices,31193.6,202,25,24,2.9
+2758,Product_2758,Home Appliances,26906.32,320,50,12,4.5
+2759,Product_2759,Smart Devices,44747.68,128,43,36,2.2
+2760,Product_2760,Home Appliances,39535.56,227,19,6,3.3
+2761,Product_2761,Electronics,8007.91,436,5,6,3.4
+2762,Product_2762,Wearables,15930.24,467,11,12,4.2
+2763,Product_2763,Smart Devices,12800.21,423,12,24,3.7
+2764,Product_2764,Wearables,37325.34,123,10,12,4
+2765,Product_2765,Home Appliances,2159.86,475,8,36,4.3
+2766,Product_2766,Smart Devices,28709.54,154,24,12,4.6
+2767,Product_2767,Wearables,38241.7,35,28,6,2.9
+2768,Product_2768,Wearables,43899.9,145,41,36,3.6
+2769,Product_2769,Smart Devices,17433.05,312,36,6,4.5
+2770,Product_2770,Wearables,41152.24,241,37,24,5
+2771,Product_2771,Smart Devices,5976.27,378,21,6,4.7
+2772,Product_2772,Wearables,42399.39,85,8,6,3.1
+2773,Product_2773,Electronics,6810.69,484,9,12,2.6
+2774,Product_2774,Smart Devices,20165.72,337,47,6,3.5
+2775,Product_2775,Electronics,39966.12,354,15,36,4.2
+2776,Product_2776,Accessories,7920.91,311,48,36,3.5
+2777,Product_2777,Audio,11847.94,461,46,24,3.4
+2778,Product_2778,Electronics,36251.5,298,40,36,4.5
+2779,Product_2779,Wearables,36141.81,10,18,12,3.1
+2780,Product_2780,Home Appliances,32236.81,156,42,24,4.6
+2781,Product_2781,Accessories,34850.45,296,20,36,3.2
+2782,Product_2782,Electronics,27364.86,473,6,12,3
+2783,Product_2783,Accessories,12964.05,151,12,36,3.4
+2784,Product_2784,Electronics,17611.95,62,2,36,4.3
+2785,Product_2785,Electronics,9489.09,313,7,6,2.4
+2786,Product_2786,Home Appliances,45468.3,78,16,36,2.6
+2787,Product_2787,Home Appliances,29377.89,370,3,36,4.9
+2788,Product_2788,Electronics,20342.15,99,45,12,2.5
+2789,Product_2789,Audio,23369.29,455,3,12,3.7
+2790,Product_2790,Home Appliances,47390.53,229,27,6,3.7
+2791,Product_2791,Home Appliances,8090.89,459,50,36,3.5
+2792,Product_2792,Home Appliances,29518.38,201,43,6,3.9
+2793,Product_2793,Smart Devices,25541.49,463,40,36,2.7
+2794,Product_2794,Accessories,30766.98,72,38,24,3.7
+2795,Product_2795,Electronics,1396.45,82,33,24,3.1
+2796,Product_2796,Audio,43670.13,170,28,6,4
+2797,Product_2797,Home Appliances,46639.85,178,1,6,2.4
+2798,Product_2798,Smart Devices,28474.09,98,8,6,3.7
+2799,Product_2799,Accessories,34984.22,185,37,12,2.6
+2800,Product_2800,Wearables,46163.72,278,32,12,2.8
+2801,Product_2801,Wearables,35508.31,82,48,12,2.7
+2802,Product_2802,Home Appliances,8050.68,254,43,6,2.5
+2803,Product_2803,Audio,29026.27,86,37,36,4.5
+2804,Product_2804,Audio,30532.39,168,4,24,2.9
+2805,Product_2805,Accessories,21494.47,498,30,6,4.8
+2806,Product_2806,Accessories,36953.99,468,6,12,4.9
+2807,Product_2807,Electronics,46751.17,333,46,12,3.7
+2808,Product_2808,Home Appliances,46315.64,107,19,6,2.4
+2809,Product_2809,Wearables,22816.55,390,32,6,3.1
+2810,Product_2810,Electronics,6105.28,111,9,12,4.4
+2811,Product_2811,Audio,49249.64,141,12,36,3.1
+2812,Product_2812,Electronics,42025.46,111,11,12,2.3
+2813,Product_2813,Wearables,6670.8,28,46,12,3.7
+2814,Product_2814,Audio,46081.67,463,16,6,4.5
+2815,Product_2815,Accessories,43559.87,491,1,36,4.4
+2816,Product_2816,Smart Devices,26182.48,91,45,12,2.5
+2817,Product_2817,Smart Devices,29768.13,406,21,12,4
+2818,Product_2818,Accessories,20250.63,498,30,24,2.7
+2819,Product_2819,Home Appliances,3210.7,288,13,6,2.7
+2820,Product_2820,Electronics,17092.26,348,34,24,4.6
+2821,Product_2821,Audio,40241.25,374,4,24,2.7
+2822,Product_2822,Accessories,729.29,340,28,12,2.8
+2823,Product_2823,Accessories,17008.21,138,38,6,2
+2824,Product_2824,Home Appliances,20209.35,353,31,36,4.6
+2825,Product_2825,Electronics,27101.08,319,27,12,4.4
+2826,Product_2826,Accessories,46032.85,464,5,36,3.9
+2827,Product_2827,Wearables,17644.13,98,25,36,4.3
+2828,Product_2828,Accessories,17674.18,222,3,6,2.5
+2829,Product_2829,Audio,37006.31,152,33,24,3.4
+2830,Product_2830,Electronics,22884.79,74,4,6,3.1
+2831,Product_2831,Audio,11617.94,85,25,36,2.3
+2832,Product_2832,Electronics,22895.76,208,20,12,3.5
+2833,Product_2833,Wearables,7472.42,152,34,36,4.8
+2834,Product_2834,Audio,9231.16,414,26,12,2.1
+2835,Product_2835,Smart Devices,25169.2,412,5,12,2.9
+2836,Product_2836,Accessories,21236.81,325,35,6,2.6
+2837,Product_2837,Wearables,45784.87,102,28,36,2.7
+2838,Product_2838,Electronics,18438.5,482,29,24,4.7
+2839,Product_2839,Audio,29239.12,426,9,36,3.4
+2840,Product_2840,Accessories,31797.08,314,38,36,3.4
+2841,Product_2841,Wearables,1148.18,233,50,24,4.3
+2842,Product_2842,Electronics,33345.1,300,6,6,2.5
+2843,Product_2843,Smart Devices,9312.78,437,19,36,3.5
+2844,Product_2844,Smart Devices,48072.98,111,44,36,3.3
+2845,Product_2845,Electronics,7858.81,483,11,12,3.8
+2846,Product_2846,Smart Devices,21023.89,276,2,36,5
+2847,Product_2847,Wearables,4724.81,364,47,24,4.3
+2848,Product_2848,Accessories,49845.28,465,44,12,3.2
+2849,Product_2849,Smart Devices,25358.65,119,44,6,4.5
+2850,Product_2850,Accessories,29971.56,471,9,12,2.5
+2851,Product_2851,Home Appliances,3820.29,339,21,24,2.1
+2852,Product_2852,Smart Devices,37623.04,459,24,24,2.6
+2853,Product_2853,Home Appliances,10890.33,439,34,12,3
+2854,Product_2854,Accessories,44953.69,274,22,6,3.5
+2855,Product_2855,Audio,10654.41,12,3,12,3.8
+2856,Product_2856,Accessories,9939.04,94,12,6,4.7
+2857,Product_2857,Wearables,2309.21,291,28,12,3.5
+2858,Product_2858,Audio,23867.31,337,30,24,3.5
+2859,Product_2859,Audio,28459.64,313,26,36,2.2
+2860,Product_2860,Smart Devices,3752.58,459,48,36,2.1
+2861,Product_2861,Smart Devices,38888.62,463,21,6,3.7
+2862,Product_2862,Smart Devices,22937.8,421,28,6,3.3
+2863,Product_2863,Accessories,26457.32,126,26,6,4.5
+2864,Product_2864,Audio,22317.76,230,33,24,2.5
+2865,Product_2865,Wearables,20337.77,163,21,12,2.1
+2866,Product_2866,Wearables,28202.2,162,35,24,3.3
+2867,Product_2867,Home Appliances,8184.39,21,34,36,2.7
+2868,Product_2868,Electronics,9505.44,142,41,6,2.1
+2869,Product_2869,Wearables,43158.39,491,47,12,4.2
+2870,Product_2870,Smart Devices,47332.72,313,18,36,2.3
+2871,Product_2871,Home Appliances,18978.81,302,11,36,3.8
+2872,Product_2872,Smart Devices,13901.86,472,23,36,2.8
+2873,Product_2873,Audio,32377.98,309,48,24,2.5
+2874,Product_2874,Audio,20732.34,237,22,6,3.1
+2875,Product_2875,Accessories,1756.62,280,17,36,4.4
+2876,Product_2876,Smart Devices,8229.55,52,5,6,3.2
+2877,Product_2877,Wearables,35940.63,441,44,24,4.3
+2878,Product_2878,Electronics,33116.74,352,11,36,2.4
+2879,Product_2879,Smart Devices,1841.25,335,30,24,4.3
+2880,Product_2880,Wearables,11487.62,311,15,24,2.7
+2881,Product_2881,Home Appliances,11938.2,373,27,6,4
+2882,Product_2882,Smart Devices,33758.69,388,35,36,3.7
+2883,Product_2883,Home Appliances,1475.67,436,33,24,4.8
+2884,Product_2884,Wearables,5653.37,30,20,36,3.2
+2885,Product_2885,Wearables,40095.85,416,16,6,2.2
+2886,Product_2886,Wearables,9337.96,116,34,24,2.1
+2887,Product_2887,Wearables,32810.93,345,2,6,4.5
+2888,Product_2888,Audio,12290.05,312,35,36,3.6
+2889,Product_2889,Accessories,5422.35,126,40,36,4.3
+2890,Product_2890,Wearables,12537.02,133,28,6,2.7
+2891,Product_2891,Audio,36252.21,408,47,12,3
+2892,Product_2892,Electronics,42856.98,290,39,24,2.1
+2893,Product_2893,Audio,41595.88,301,6,36,4.9
+2894,Product_2894,Home Appliances,20160.58,212,9,36,4
+2895,Product_2895,Electronics,33570.21,60,20,24,4.8
+2896,Product_2896,Home Appliances,10646.72,280,1,6,2.8
+2897,Product_2897,Accessories,15010.81,333,8,6,3.8
+2898,Product_2898,Smart Devices,44868.62,286,23,6,4
+2899,Product_2899,Smart Devices,1143.6,150,3,12,3
+2900,Product_2900,Audio,4732.67,479,4,12,4.5
+2901,Product_2901,Home Appliances,10790.37,284,25,36,4.8
+2902,Product_2902,Accessories,1813.34,299,47,6,4.7
+2903,Product_2903,Smart Devices,9481.05,343,38,24,4.2
+2904,Product_2904,Accessories,29360.56,390,15,36,2.8
+2905,Product_2905,Accessories,21360.52,461,21,24,2.8
+2906,Product_2906,Smart Devices,44687.25,382,35,36,4.9
+2907,Product_2907,Smart Devices,40963.46,61,46,12,2
+2908,Product_2908,Electronics,17419.96,36,14,36,4.1
+2909,Product_2909,Electronics,13341.46,166,36,12,4.1
+2910,Product_2910,Wearables,19294.77,248,12,36,3.9
+2911,Product_2911,Home Appliances,29719.6,165,17,6,5
+2912,Product_2912,Smart Devices,13769.15,300,39,24,2.9
+2913,Product_2913,Accessories,31395.37,145,9,6,3
+2914,Product_2914,Home Appliances,20765.88,153,35,36,2.2
+2915,Product_2915,Wearables,27826.34,115,13,36,3.3
+2916,Product_2916,Accessories,22088.26,429,15,36,2.8
+2917,Product_2917,Audio,15076.06,167,18,12,3
+2918,Product_2918,Wearables,47448.44,155,33,24,4.5
+2919,Product_2919,Smart Devices,38298.49,11,6,24,4.8
+2920,Product_2920,Audio,7435.6,442,27,36,2.6
+2921,Product_2921,Audio,43489.16,86,23,36,3.1
+2922,Product_2922,Wearables,24627.84,141,27,12,4.8
+2923,Product_2923,Smart Devices,44780.34,99,34,6,2.2
+2924,Product_2924,Accessories,40092.84,354,46,6,2.3
+2925,Product_2925,Audio,21548.07,359,38,24,2.5
+2926,Product_2926,Wearables,1612.23,468,14,12,3.8
+2927,Product_2927,Wearables,13799.53,272,36,36,2.5
+2928,Product_2928,Accessories,27310.89,360,8,24,4.9
+2929,Product_2929,Smart Devices,31857.17,117,35,12,3.3
+2930,Product_2930,Wearables,13265.44,83,19,6,3.5
+2931,Product_2931,Wearables,7398.13,48,30,12,2.7
+2932,Product_2932,Wearables,41829.05,406,14,6,3.4
+2933,Product_2933,Home Appliances,49227.91,168,20,12,4
+2934,Product_2934,Electronics,26521.66,80,49,24,4.3
+2935,Product_2935,Accessories,8998.12,456,25,6,4.3
+2936,Product_2936,Home Appliances,13979.21,321,40,24,3.7
+2937,Product_2937,Wearables,1410.34,250,24,24,4.7
+2938,Product_2938,Electronics,45757.79,435,14,6,4.5
+2939,Product_2939,Accessories,6328.68,454,26,6,4.3
+2940,Product_2940,Audio,29037.57,307,38,36,2.2
+2941,Product_2941,Accessories,14065.73,449,23,36,2
+2942,Product_2942,Home Appliances,27931.81,45,22,36,2.6
+2943,Product_2943,Home Appliances,32745.31,93,48,24,4
+2944,Product_2944,Home Appliances,41572.22,461,19,24,3.2
+2945,Product_2945,Accessories,10717.85,383,46,36,3.2
+2946,Product_2946,Smart Devices,1044.29,272,3,24,4.7
+2947,Product_2947,Wearables,7275.84,319,42,24,4.7
+2948,Product_2948,Accessories,45050.92,394,19,6,4.7
+2949,Product_2949,Audio,43757.56,181,9,6,2.9
+2950,Product_2950,Audio,30071.95,385,28,24,4.1
+2951,Product_2951,Audio,30225.58,182,20,36,2.8
+2952,Product_2952,Wearables,33419.32,371,45,12,2.6
+2953,Product_2953,Electronics,9180.88,56,7,36,2.6
+2954,Product_2954,Home Appliances,45763.39,388,14,12,3
+2955,Product_2955,Wearables,21229.14,150,9,36,3.3
+2956,Product_2956,Home Appliances,19465.36,384,19,6,4.5
+2957,Product_2957,Wearables,26186.43,415,47,24,2.4
+2958,Product_2958,Home Appliances,2824.82,127,14,24,4.2
+2959,Product_2959,Wearables,8731.03,286,38,6,3.6
+2960,Product_2960,Electronics,37032.66,223,36,12,2.9
+2961,Product_2961,Accessories,4598.53,229,40,12,3.5
+2962,Product_2962,Audio,30356.03,402,17,12,2.9
+2963,Product_2963,Home Appliances,12644.78,35,30,6,3.8
+2964,Product_2964,Wearables,19770.13,18,9,12,3.3
+2965,Product_2965,Electronics,14790.34,280,33,6,2.5
+2966,Product_2966,Electronics,18105.8,19,25,36,2.3
+2967,Product_2967,Audio,36092.77,481,14,36,3.6
+2968,Product_2968,Wearables,15207.52,387,11,6,4.7
+2969,Product_2969,Accessories,28537.03,130,35,24,3
+2970,Product_2970,Home Appliances,24064.49,134,41,36,4.2
+2971,Product_2971,Accessories,33351.72,179,14,12,4
+2972,Product_2972,Smart Devices,46873.07,81,30,6,4.8
+2973,Product_2973,Electronics,36762.32,161,41,12,4.5
+2974,Product_2974,Electronics,11139.55,217,4,12,3.7
+2975,Product_2975,Audio,2043.57,58,4,24,4
+2976,Product_2976,Wearables,13482.07,163,28,12,4.7
+2977,Product_2977,Smart Devices,29956.36,356,8,24,3.2
+2978,Product_2978,Smart Devices,3045.58,302,2,36,3
+2979,Product_2979,Smart Devices,25070.13,77,41,6,2
+2980,Product_2980,Wearables,30043.72,59,46,12,4.5
+2981,Product_2981,Home Appliances,17045.07,161,22,6,4.4
+2982,Product_2982,Electronics,38660.15,28,41,12,2.3
+2983,Product_2983,Wearables,5776.61,109,16,6,3.7
+2984,Product_2984,Smart Devices,4219.32,69,29,12,3.4
+2985,Product_2985,Electronics,36545.34,176,49,12,2.4
+2986,Product_2986,Electronics,25026.82,211,48,12,4.9
+2987,Product_2987,Smart Devices,34575.92,354,30,12,2.6
+2988,Product_2988,Smart Devices,22023.95,155,12,12,2.2
+2989,Product_2989,Electronics,12696.9,412,35,12,3.8
+2990,Product_2990,Audio,41045.56,173,11,12,4.2
+2991,Product_2991,Accessories,40071.09,467,46,12,2.1
+2992,Product_2992,Accessories,34887.48,490,50,12,4
+2993,Product_2993,Electronics,13971.18,448,21,6,3.6
+2994,Product_2994,Home Appliances,29716.42,251,21,24,2.3
+2995,Product_2995,Home Appliances,18368.21,78,5,12,2.5
+2996,Product_2996,Audio,5033.31,184,48,24,3.7
+2997,Product_2997,Wearables,45907.02,58,20,12,2.9
+2998,Product_2998,Electronics,7272.52,492,37,12,4.8
+2999,Product_2999,Home Appliances,47536.75,117,3,6,4.5
+3000,Product_3000,Electronics,22577.29,235,44,36,5
+3001,Product_3001,Audio,9664.08,170,33,36,2.8
+3002,Product_3002,Smart Devices,27324.1,128,9,6,4.9
+3003,Product_3003,Audio,43710.82,158,9,24,3.3
+3004,Product_3004,Audio,36745.13,474,4,36,3
+3005,Product_3005,Audio,40424.78,159,35,6,2.2
+3006,Product_3006,Home Appliances,33109.78,441,17,6,2.2
+3007,Product_3007,Audio,34767.69,302,34,36,4.1
+3008,Product_3008,Smart Devices,42535.18,152,24,24,3.4
+3009,Product_3009,Smart Devices,12858.57,428,32,6,2.7
+3010,Product_3010,Smart Devices,24726.54,485,1,12,3.8
+3011,Product_3011,Wearables,11449.87,464,8,24,2.8
+3012,Product_3012,Audio,49389.57,169,45,24,3.7
+3013,Product_3013,Smart Devices,47230.94,20,23,36,3.1
+3014,Product_3014,Wearables,2451.63,147,47,36,4.5
+3015,Product_3015,Audio,35425.97,466,40,12,4.5
+3016,Product_3016,Audio,46299.79,87,12,6,3.4
+3017,Product_3017,Electronics,9438.48,86,12,36,3.1
+3018,Product_3018,Audio,28613.29,450,46,36,3.1
+3019,Product_3019,Accessories,45816.67,263,47,24,4.4
+3020,Product_3020,Electronics,2180.33,418,15,36,3
+3021,Product_3021,Home Appliances,35022.3,267,41,36,2.6
+3022,Product_3022,Accessories,15218.78,329,19,36,2.3
+3023,Product_3023,Home Appliances,46257.61,300,26,36,3.4
+3024,Product_3024,Wearables,48567.38,272,29,24,3.4
+3025,Product_3025,Accessories,47241.19,94,22,12,4.5
+3026,Product_3026,Electronics,23973.6,155,40,12,2.7
+3027,Product_3027,Home Appliances,43171.11,332,21,6,3.1
+3028,Product_3028,Home Appliances,42305.2,51,38,36,4.4
+3029,Product_3029,Home Appliances,16295.47,383,20,24,4.5
+3030,Product_3030,Audio,41531.32,134,29,6,3.2
+3031,Product_3031,Electronics,2331.88,176,4,6,3.4
+3032,Product_3032,Home Appliances,30015.36,434,7,12,2.9
+3033,Product_3033,Electronics,11885.44,250,28,24,4.8
+3034,Product_3034,Smart Devices,6468.06,468,28,24,2.4
+3035,Product_3035,Smart Devices,4309.18,496,4,24,4.8
+3036,Product_3036,Accessories,34966.29,289,22,12,4.1
+3037,Product_3037,Audio,17323.81,197,12,12,3.6
+3038,Product_3038,Smart Devices,36375.96,311,45,12,2.1
+3039,Product_3039,Wearables,3735.14,28,3,12,3.4
+3040,Product_3040,Electronics,16106.87,77,22,12,3.2
+3041,Product_3041,Home Appliances,27204.82,227,44,36,2.5
+3042,Product_3042,Wearables,39640.8,111,2,36,4
+3043,Product_3043,Accessories,16278.25,51,24,24,4.9
+3044,Product_3044,Wearables,31481.62,297,34,6,3.7
+3045,Product_3045,Accessories,44355.9,176,27,24,4.1
+3046,Product_3046,Smart Devices,30985.23,118,41,6,2.2
+3047,Product_3047,Electronics,12031.49,45,1,12,3.3
+3048,Product_3048,Accessories,1707.84,241,8,6,2.3
+3049,Product_3049,Home Appliances,43569.89,238,23,24,3.8
+3050,Product_3050,Wearables,1552.84,362,38,24,4.8
