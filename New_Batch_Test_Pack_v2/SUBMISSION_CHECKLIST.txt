@@ -1,0 +1,14 @@
+NEW BATCH SUBMISSION CHECKLIST
+=============================
+
+Before submitting, make sure:
+
+[ ] I entered my name and roll number in the notebook.
+[ ] I answered Q1 to Q10 in order.
+[ ] I used the exact function/class names asked in the questions.
+[ ] I printed sample outputs wherever required.
+[ ] My notebook runs without errors from top to bottom.
+[ ] I created q10_student_report.csv.
+[ ] I kept the datasets folder along with my submission.
+[ ] I saved the notebook after running all cells.
+[ ] I zipped the final folder using the required naming convention.
