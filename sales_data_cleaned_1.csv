@@ -1,0 +1,516 @@
+OrderID,Date,Region,Product,Category,Quantity,UnitPrice,CustomerID,SalesRep,PaymentMethod,TotalAmount,Outlier_mask,Month,Year,HighValue
+1305,2024-07-13,North,Phone,Electronics,14,599,5060,Diana,Net Banking,8386,False,7,2024,False
+1500,2024-10-06,Central,Phone,Electronics,15,49,5199,Bob,Credit Card,735,False,10,2024,False
+1442,2024-11-13,West,Laptop,Accessories,2,1299,5008,Charlie,Cash,2598,False,11,2024,False
+1154,2024-11-22,North,Laptop,Accessories,10,19,5198,Eve,UPI,190,False,11,2024,False
+1414,2024-02-22,North,Keyboard,Electronics,4,299,5063,Alice,Net Banking,1196,False,2,2024,False
+1132,2024-12-24,North,Phone,Accessories,15,49,5178,Alice,UPI,735,False,12,2024,False
+1205,2024-07-05,North,Charger,Electronics,18,1299,5026,Charlie,UPI,23382,False,7,2024,True
+1416,2024-04-17,central,Mouse,Accessories,5,899,5124,Eve,Debit Card,4495,False,4,2024,False
+1326,2024-05-26,East,Mouse,Electronics,15,19,5082,Diana,Credit Card,285,False,5,2024,False
+1248,2024-11-03,East,Keyboard,Accessories,9,899,5131,Bob,UPI,8091,False,11,2024,False
+1466,2024-05-23,Central,Laptop,Electronics,5,1299,5101,Alice,Debit Card,6495,False,5,2024,False
+1354,2024-01-18,East,Mouse,Accessories,15,79,5001,Charlie,Credit Card,1185,False,1,2024,False
+1290,2024-06-01,South,Tablet,Accessories,16,1299,5025,Charlie,Debit Card,20784,False,6,2024,True
+1085,2024-12-03,West,Charger,Accessories,19,599,5044,Diana,Credit Card,11381,False,12,2024,False
+1011,2024-11-26,North,Keyboard,Electronics,17,49,5078,Bob,Debit Card,833,False,11,2024,False
+1325,2024-10-30,East,Phone,Accessories,14,599,5175,Eve,Cash,8386,False,10,2024,False
+1079,2024-09-08,Central,Tablet,Accessories,18,899,5138,Diana,Net Banking,16182,False,9,2024,False
+1031,2024-02-28,North,Headphones,Electronics,7,299,5147,Eve,UPI,2093,False,2,2024,False
+1185,2024-06-13,North,Mouse,Electronics,5,1299,5032,Alice,UPI,6495,False,6,2024,False
+1196,2024-04-22,South,Headphones,Accessories,18,299,5079,Alice,Debit Card,5382,False,4,2024,False
+1223,2024-07-21,East,Keyboard,Electronics,15,79,5147,Frank,Cash,1185,False,7,2024,False
+1210,2024-02-23,Central,Tablet,Electronics,8,599,5131,Alice,Credit Card,4792,False,2,2024,False
+1282,2024-03-15,Central,Keyboard,Electronics,14,1299,5162,Charlie,Credit Card,18186,False,3,2024,True
+1209,2024-08-07,West,Tablet,Accessories,1,79,5153,Alice,Credit Card,79,False,8,2024,False
+1125,2024-08-14,Central,Mouse,Electronics,14,49,5089,Eve,Cash,686,False,8,2024,False
+1251,2024-12-03,Central,Keyboard,Electronics,2,19,5027,Charlie,Cash,38,False,12,2024,False
+1077,2024-09-27,West,Keyboard,Electronics,18,899,5014,Eve,UPI,16182,False,9,2024,False
+1383,2024-02-05,North,Keyboard,Accessories,1,299,5098,Frank,Cash,299,False,2,2024,False
+1343,2024-06-29,West,Tablet,Accessories,7,19,5125,Bob,Debit Card,133,False,6,2024,False
+1324,2024-11-12,East,Laptop,Accessories,16,79,5051,Frank,Cash,1264,False,11,2024,False
+1245,2024-05-27,North,Headphones,Electronics,13,79,5130,Bob,Debit Card,1027,False,5,2024,False
+1332,2024-06-20,East,Tablet,Electronics,18,49,5128,Eve,UPI,882,False,6,2024,False
+1141,2024-08-18,South,Keyboard,Accessories,5,49,5061,Frank,Debit Card,245,False,8,2024,False
+1010,2024-08-02,Unknown,Keyboard,Accessories,9,49,5047,Bob,Net Banking,441,False,8,2024,False
+1073,2024-07-20,Central,Headphones,Accessories,13,49,5086,Charlie,Debit Card,637,False,7,2024,False
+1401,2024-05-04,West,Tablet,Electronics,7,1299,5154,Alice,Debit Card,9093,False,5,2024,False
+1488,2024-11-20,North,Phone,Electronics,1,299,5026,Diana,Credit Card,299,False,11,2024,False
+1226,2024-09-11,North,Mouse,Accessories,12,299,5011,Charlie,Unknown,3588,False,9,2024,False
+1074,2024-09-26,East,Charger,Accessories,8,599,5135,Charlie,Cash,4792,False,9,2024,False
+1178,2024-04-25,North,Mouse,Accessories,14,599,5059,Charlie,UPI,8386,False,4,2024,False
+1404,2024-02-27,North,Charger,Electronics,11,599,5176,Charlie,Net Banking,6589,False,2,2024,False
+1069,2024-07-09,North,Charger,Accessories,19,79,5152,Alice,Net Banking,1501,False,7,2024,False
+1156,2024-08-30,Central,Keyboard,Accessories,12,599,5065,Frank,UPI,7188,False,8,2024,False
+1056,2024-12-05,East,Tablet,Accessories,16,79,5070,Bob,Cash,1264,False,12,2024,False
+1406,2024-10-31,West,Tablet,Accessories,14,49,5110,Bob,Net Banking,686,False,10,2024,False
+1299,2024-06-09,East,Keyboard,Accessories,12,299,5133,Charlie,UPI,3588,False,6,2024,False
+1078,2024-08-02,West,Tablet,Electronics,6,79,5120,Alice,Credit Card,474,False,8,2024,False
+1469,2024-10-11,North,Keyboard,Electronics,1,79,5161,Eve,Debit Card,79,False,10,2024,False
+1318,2024-01-27,East,Headphones,Accessories,4,49,5190,Frank,Net Banking,196,False,1,2024,False
+1476,2024-08-05,South,Charger,Accessories,12,599,5045,Frank,Net Banking,7188,False,8,2024,False
+1091,2024-02-10,West,Mouse,Electronics,17,79,5082,Bob,Net Banking,1343,False,2,2024,False
+1239,2024-12-14,South,Tablet,Electronics,18,49,5176,Charlie,Cash,882,False,12,2024,False
+1486,2024-01-10,Central,Keyboard,Accessories,2,299,5105,Frank,Net Banking,598,False,1,2024,False
+1064,2024-01-02,North,Headphones,Electronics,18,49,5031,Alice,Cash,882,False,1,2024,False
+1458,2024-07-07,Central,Headphones,Electronics,16,1299,5035,Frank,Net Banking,20784,False,7,2024,True
+1071,2024-02-13,West,Keyboard,Electronics,14,19,5106,Charlie,Credit Card,266,False,2,2024,False
+1003,2024-09-27,West,Phone,Electronics,13,49,5145,Diana,Cash,637,False,9,2024,False
+1288,2024-04-21,South,Keyboard,Electronics,3,19,5027,Eve,Credit Card,57,False,4,2024,False
+1342,2024-10-28,North,Mouse,Electronics,13,1299,5033,Charlie,Debit Card,16887,False,10,2024,False
+1138,2024-06-27,Central,Laptop,Electronics,17,49,5033,Eve,UPI,833,False,6,2024,False
+1250,2024-02-08,Central,Phone,Electronics,4,599,5003,Eve,UPI,2396,False,2,2024,False
+1195,2024-06-28,South,Laptop,Electronics,2,299,5120,Alice,Credit Card,598,False,6,2024,False
+1173,2024-08-18,Central,Tablet,Electronics,15,79,5076,Frank,Net Banking,1185,False,8,2024,False
+1083,2024-07-26,North,Tablet,Accessories,3,599,5106,Eve,UPI,1797,False,7,2024,False
+1454,2024-02-17,East,Tablet,Electronics,10,19,5113,Eve,UPI,190,False,2,2024,False
+1319,2024-08-13,North,Tablet,Electronics,13,79,5161,Charlie,Credit Card,1027,False,8,2024,False
+1034,2024-09-27,South,Charger,Electronics,15,299,5046,Charlie,Net Banking,4485,False,9,2024,False
+1427,2024-05-23,East,Tablet,Accessories,13,1299,5168,Frank,Credit Card,16887,False,5,2024,False
+1228,2024-10-06,South,Laptop,Accessories,14,899,5074,Diana,Net Banking,12586,False,10,2024,False
+1001,2024-04-12,Unknown,Phone,Electronics,6,299,5045,Diana,Debit Card,1794,False,4,2024,False
+1012,2024-03-28,Central,Keyboard,Electronics,12,899,5124,Charlie,Debit Card,10788,False,3,2024,False
+1238,2024-11-21,North,Keyboard,Accessories,2,79,5143,Frank,Net Banking,158,False,11,2024,False
+1023,2024-10-03,Central,Keyboard,Electronics,1,899,5107,Frank,Credit Card,899,False,10,2024,False
+1105,2024-06-11,East,Headphones,Accessories,4,299,5176,Alice,Net Banking,1196,False,6,2024,False
+1297,2024-07-26,West,Phone,Electronics,5,79,5154,Eve,Net Banking,395,False,7,2024,False
+1102,2024-03-03,South,Laptop,Accessories,2,899,5160,Bob,UPI,1798,False,3,2024,False
+1080,2024-07-08,North,Headphones,Electronics,19,19,5080,Charlie,Debit Card,361,False,7,2024,False
+1430,2024-04-15,East,Tablet,Accessories,5,49,5064,Frank,Debit Card,245,False,4,2024,False
+1432,2024-05-26,South,Tablet,Electronics,8,599,5120,Charlie,Net Banking,4792,False,5,2024,False
+1019,2024-09-14,North,Phone,Electronics,18,899,5061,Bob,Net Banking,16182,False,9,2024,False
+1177,2024-04-30,West,Headphones,Electronics,18,1299,5188,Charlie,Net Banking,23382,False,4,2024,True
+1232,2024-08-27,South,Tablet,Electronics,19,899,5164,Frank,Debit Card,17081,False,8,2024,True
+1123,2024-08-01,South,Mouse,Electronics,12,1299,5147,Charlie,Cash,15588,False,8,2024,False
+1133,2024-10-09,Central,Mouse,Accessories,14,79,5117,Diana,Debit Card,1106,False,10,2024,False
+1040,2024-08-31,West,Headphones,Accessories,165,49,5049,Eve,Credit Card,8085,True,8,2024,False
+1465,2024-06-02,North,Charger,Electronics,8,1299,5020,Alice,Credit Card,10392,False,6,2024,False
+1047,2024-06-15,West,Tablet,Accessories,9,49,5090,Charlie,Credit Card,441,False,6,2024,False
+1358,2024-02-27,West,Headphones,Electronics,15,19,5191,Bob,Credit Card,285,False,2,2024,False
+1278,2024-02-23,East,Mouse,Electronics,6,79,5119,Charlie,Debit Card,474,False,2,2024,False
+1363,2024-04-23,West,Charger,Accessories,17,299,5047,Charlie,Cash,5083,False,4,2024,False
+1094,2024-10-27,East,Phone,Electronics,12,899,5021,Charlie,Credit Card,10788,False,10,2024,False
+1447,2024-05-01,North,Keyboard,Accessories,8,299,5086,Bob,Credit Card,2392,False,5,2024,False
+1204,2024-03-21,East,Laptop,Electronics,16,599,5028,Charlie,Net Banking,9584,False,3,2024,False
+1451,2024-04-05,West,Charger,Accessories,13,19,5183,Bob,Credit Card,247,False,4,2024,False
+1149,2024-06-19,South,Phone,Electronics,11,79,5086,Charlie,Net Banking,869,False,6,2024,False
+1221,2024-09-03,South,Mouse,Accessories,17,1299,5178,Bob,UPI,22083,False,9,2024,True
+1070,2024-08-05,North,Charger,Electronics,19,49,5108,Eve,UPI,931,False,8,2024,False
+1254,2024-09-23,South,Laptop,Accessories,4,49,5040,Bob,Debit Card,196,False,9,2024,False
+1399,2024-03-03,South,Charger,Accessories,3,299,5088,Charlie,UPI,897,False,3,2024,False
+1168,2024-12-05,Central,Laptop,Electronics,12,1299,5112,Eve,Cash,15588,False,12,2024,False
+1276,2024-05-10,West,Headphones,Electronics,3,79,5063,Charlie,Debit Card,237,False,5,2024,False
+1105,2024-06-11,East,Headphones,Accessories,4,299,5176,Alice,Net Banking,1196,False,6,2024,False
+1280,2024-06-09,North,Mouse,Accessories,3,599,5158,Bob,Credit Card,1797,False,6,2024,False
+1321,2024-10-12,West,Phone,Electronics,2,299,5180,Eve,UPI,598,False,10,2024,False
+1330,2024-02-18,South,Laptop,Accessories,10,49,5023,Charlie,Debit Card,490,False,2,2024,False
+1174,2024-07-08,West,Mouse,Electronics,15,19,5088,Diana,Debit Card,285,False,7,2024,False
+1273,2024-05-26,South,Mouse,Electronics,1,299,5119,Eve,Cash,299,False,5,2024,False
+1496,2024-09-13,East,Keyboard,Accessories,15,79,5157,Charlie,Cash,1185,False,9,2024,False
+1183,2024-05-16,Central,Keyboard,Electronics,3,299,5049,Bob,Credit Card,897,False,5,2024,False
+1269,2024-06-08,South,Keyboard,Electronics,12,49,5137,Alice,Net Banking,588,False,6,2024,False
+1353,2024-05-07,North,Tablet,Accessories,10,79,5124,Frank,Debit Card,790,False,5,2024,False
+1118,2024-08-03,South,Phone,Accessories,3,49,5069,Bob,Net Banking,147,False,8,2024,False
+1394,2024-08-02,East,Headphones,Accessories,13,899,5078,Frank,Net Banking,11687,False,8,2024,False
+1333,2024-08-07,Central,Laptop,Accessories,2,79,5150,Alice,Net Banking,158,False,8,2024,False
+1456,2024-08-24,South,Mouse,Accessories,12,79,5158,Bob,Cash,948,False,8,2024,False
+1445,2024-05-08,North,Phone,Electronics,3,19,5125,Unknown,Cash,57,False,5,2024,False
+1357,2024-02-23,South,Phone,Electronics,9,1299,5128,Charlie,Net Banking,11691,False,2,2024,False
+1087,2024-10-06,South,Tablet,Electronics,15,899,5045,Alice,Cash,13485,False,10,2024,False
+1439,2024-12-11,South,Laptop,Electronics,6,599,5041,Eve,Net Banking,3594,False,12,2024,False
+1076,2024-10-30,North,Tablet,Accessories,12,79,5183,Frank,Credit Card,948,False,10,2024,False
+1452,2024-05-05,Central,Headphones,Accessories,15,49,5016,Bob,Credit Card,735,False,5,2024,False
+1016,2024-05-10,West,Laptop,Accessories,1,299,5090,Frank,Net Banking,299,False,5,2024,False
+1211,2024-12-08,West,Mouse,Electronics,6,899,5200,Frank,UPI,5394,False,12,2024,False
+1181,2024-12-24,North,Laptop,Electronics,5,599,5192,Unknown,UPI,2995,False,12,2024,False
+1398,2024-07-04,west,Tablet,Accessories,18,19,5168,Alice,Debit Card,342,False,7,2024,False
+1020,2024-12-09,South,Mouse,Accessories,1,599,5138,Alice,UPI,599,False,12,2024,False
+1309,2024-01-22,West,Headphones,Accessories,13,1299,5194,Bob,Net Banking,16887,False,1,2024,False
+1341,2024-12-14,Central,Mouse,Accessories,7,49,5163,Charlie,Credit Card,343,False,12,2024,False
+1057,2024-04-01,North,Phone,Accessories,4,1299,5041,Charlie,Credit Card,5196,False,4,2024,False
+1279,2024-04-29,North,Charger,Electronics,11,599,5021,Bob,UPI,6589,False,4,2024,False
+1468,2024-07-03,North,Laptop,Accessories,12,299,5172,Eve,Credit Card,3588,False,7,2024,False
+1066,2024-04-15,North,Headphones,Electronics,12,599,5152,Eve,Net Banking,7188,False,4,2024,False
+1155,2024-07-05,East,Tablet,Electronics,10,19,5098,Eve,Credit Card,190,False,7,2024,False
+1026,2024-01-22,South,Mouse,Electronics,1,1299,5118,Charlie,Credit Card,1299,False,1,2024,False
+1266,2024-09-10,South,Tablet,Electronics,7,899,5110,Diana,Cash,6293,False,9,2024,False
+1043,2024-11-02,South,Laptop,Accessories,9,1299,5192,Alice,Net Banking,11691,False,11,2024,False
+1313,2024-08-17,South,Mouse,Accessories,15,49,5131,Diana,Cash,735,False,8,2024,False
+1413,2024-09-20,North,Phone,Electronics,14,19,5071,Eve,UPI,266,False,9,2024,False
+1457,2024-09-28,South,Phone,Accessories,17,1299,5012,Charlie,Net Banking,22083,False,9,2024,True
+1285,2024-12-05,East,Phone,Accessories,2,599,5102,Eve,Debit Card,1198,False,12,2024,False
+1127,2024-05-10,East,Keyboard,Accessories,5,899,5128,Frank,UPI,4495,False,5,2024,False
+1335,2024-02-15,South,Laptop,Accessories,13,1299,5069,Alice,Net Banking,16887,False,2,2024,False
+1032,2024-06-18,South,Keyboard,Accessories,14,19,5170,Eve,Debit Card,266,False,6,2024,False
+1114,2024-09-24,West,Phone,Electronics,18,19,5165,Diana,UPI,342,False,9,2024,False
+1256,2024-10-24,North,Tablet,Electronics,19,49,5129,Alice,UPI,931,False,10,2024,False
+1219,2024-06-08,North,Phone,Accessories,18,899,5089,Alice,Net Banking,16182,False,6,2024,False
+1417,2024-01-05,West,Mouse,Electronics,1,899,5119,Eve,Net Banking,899,False,1,2024,False
+1058,2024-09-20,East,Laptop,Electronics,6,19,5182,Frank,UPI,114,False,9,2024,False
+1397,2024-06-01,South,  Laptop  ,Electronics,7,299,5025,Bob,Net Banking,2093,False,6,2024,False
+1025,2024-11-09,West,Mouse,Accessories,13,49,5094,Charlie,Cash,637,False,11,2024,False
+1018,2024-11-04,North,Keyboard,Electronics,8,19,5069,Alice,Credit Card,152,False,11,2024,False
+1193,2024-04-05,West,Headphones,Accessories,18,299,5116,Diana,UPI,5382,False,4,2024,False
+1067,2024-09-16,East,Keyboard,Accessories,13,19,5036,Charlie,Debit Card,247,False,9,2024,False
+1287,2024-08-14,South,Laptop,Accessories,9,19,5128,Diana,UPI,171,False,8,2024,False
+1423,2024-02-16,West,Headphones,Accessories,6,599,5166,Bob,UPI,3594,False,2,2024,False
+1095,2024-03-05,Central,Mouse,Electronics,18,299,5196,Frank,UPI,5382,False,3,2024,False
+1312,2024-02-07,Central,Charger,Accessories,15,899,5108,Eve,Credit Card,13485,False,2,2024,False
+1369,2024-09-29,East,Charger,Electronics,7,19,5117,Charlie,Cash,133,False,9,2024,False
+1024,2024-06-09,Central,Tablet,Electronics,9,599,5113,Bob,Cash,5391,False,6,2024,False
+1272,2024-04-08,East,Mouse,Electronics,19,299,5046,Bob,Cash,5681,False,4,2024,False
+1300,2024-03-08,North,Charger,Electronics,4,899,5189,Diana,Debit Card,3596,False,3,2024,False
+1374,2024-02-08,Central,  Laptop  ,Electronics,10,299,5039,Alice,Net Banking,2990,False,2,2024,False
+1006,2024-07-07,West,Tablet,Electronics,9,899,5148,Eve,Credit Card,8091,False,7,2024,False
+1117,2024-03-02,Central,Keyboard,Electronics,1,1299,5082,Alice,Net Banking,1299,False,3,2024,False
+1046,2024-11-24,Central,Charger,Electronics,7,299,5070,Frank,Cash,2093,False,11,2024,False
+1186,2024-08-12,East,Phone,Accessories,5,19,5135,Frank,Debit Card,95,False,8,2024,False
+1017,2024-05-29,East,Keyboard,Accessories,10,79,5144,Frank,UPI,790,False,5,2024,False
+1478,2024-02-08,East,Keyboard,Electronics,2,19,5175,Frank,Unknown,38,False,2,2024,False
+1368,2024-06-03,South,Keyboard,Electronics,4,79,5057,Eve,Cash,316,False,6,2024,False
+1004,2024-04-16,East,Keyboard,Electronics,1,599,5198,Frank,Credit Card,599,False,4,2024,False
+1235,2024-07-19,East,Laptop,Electronics,16,1299,5055,Bob,Cash,20784,False,7,2024,True
+1385,2024-01-20,South,Charger,Electronics,16,899,5046,Bob,Credit Card,14384,False,1,2024,False
+1061,2024-03-21,North,Charger,Accessories,10,1299,5108,Alice,Net Banking,12990,False,3,2024,False
+1111,2024-05-14,North,Charger,Electronics,12,79,5128,Diana,Credit Card,948,False,5,2024,False
+1410,2024-09-27,East,Keyboard,Electronics,10,49,5019,Alice,Credit Card,490,False,9,2024,False
+1421,2024-12-30,East,  Headphones  ,Electronics,8,899,5142,Diana,Cash,7192,False,12,2024,False
+1030,2024-02-18,East,Phone,Accessories,6,599,5051,Alice,UPI,3594,False,2,2024,False
+1275,2024-07-26,North,Headphones,Accessories,17,599,5129,Eve,Debit Card,10183,False,7,2024,False
+1303,2024-10-30,West,Phone,Electronics,16,599,5178,Alice,Cash,9584,False,10,2024,False
+1027,2024-09-09,Central,Tablet,Accessories,13,599,5198,Diana,Cash,7787,False,9,2024,False
+1008,2024-04-12,East,Mouse,Accessories,11,599,5143,Frank,Credit Card,6589,False,4,2024,False
+1182,2024-07-16,North,Charger,Accessories,1,899,5063,Charlie,Debit Card,899,False,7,2024,False
+1282,2024-03-15,Central,Keyboard,Electronics,14,1299,5162,Charlie,Credit Card,18186,False,3,2024,True
+1109,2024-02-10,South,Headphones,Accessories,19,299,5154,Charlie,Net Banking,5681,False,2,2024,False
+1038,2024-12-29,East,Keyboard,Electronics,17,299,5064,Diana,Cash,5083,False,12,2024,False
+1158,2024-10-10,North,Laptop,Electronics,1,19,5085,Alice,Net Banking,19,False,10,2024,False
+1482,2024-08-09,East,Laptop,Accessories,18,19,5076,Frank,Cash,342,False,8,2024,False
+1119,2024-10-19,North,Laptop,Accessories,8,79,5131,Eve,Debit Card,632,False,10,2024,False
+1115,2024-02-02,North,Laptop,Electronics,8,1299,5058,Bob,Net Banking,10392,False,2,2024,False
+1267,2024-05-19,West,Laptop,Electronics,15,299,5019,Eve,Net Banking,4485,False,5,2024,False
+1176,2024-10-09,East,Keyboard,Accessories,12,49,5038,Bob,UPI,588,False,10,2024,False
+1422,2024-12-15,Central,Keyboard,Electronics,1,19,5120,Charlie,UPI,19,False,12,2024,False
+1350,2024-06-09,North,Phone,Accessories,1,1299,5167,Frank,Credit Card,1299,False,6,2024,False
+1145,2024-08-09,Central,Keyboard,Electronics,12,49,5186,Alice,Debit Card,588,False,8,2024,False
+1381,2024-11-11,Unknown,Laptop,Accessories,12,19,5187,Eve,Net Banking,228,False,11,2024,False
+1392,2024-11-17,West,Mouse,Electronics,9,49,5147,Bob,Cash,441,False,11,2024,False
+1212,2024-08-11,Central,Mouse,Accessories,5,49,5044,Eve,UPI,245,False,8,2024,False
+1322,2024-04-06,West,Mouse,Accessories,14,1299,5034,Bob,UPI,18186,False,4,2024,True
+1495,2024-04-05,East,Laptop,Accessories,11,899,5020,Eve,Cash,9889,False,4,2024,False
+1111,2024-05-14,North,Charger,Electronics,12,79,5128,Diana,Credit Card,948,False,5,2024,False
+1142,2024-08-28,South,Tablet,Electronics,5,899,5061,Charlie,UPI,4495,False,8,2024,False
+1377,2024-01-26,East,Tablet,Electronics,5,599,5077,Charlie,UPI,2995,False,1,2024,False
+1068,2024-11-05,North,Charger,Accessories,13,1299,5158,Charlie,Credit Card,16887,False,11,2024,False
+1409,2024-11-21,East,Tablet,Electronics,6,49,5170,Charlie,Credit Card,294,False,11,2024,False
+1169,2024-10-12,Central,Tablet,Electronics,5,899,5179,Alice,UPI,4495,False,10,2024,False
+1425,2024-11-06,West,Tablet,Accessories,7,79,5061,Bob,Cash,553,False,11,2024,False
+1434,2024-04-29,South,Laptop,Accessories,8,49,5089,Frank,Cash,392,False,4,2024,False
+1229,2024-11-20,North,Phone,Electronics,4,299,5008,Bob,Debit Card,1196,False,11,2024,False
+1194,2024-08-20,West,Laptop,Accessories,11,299,5143,Eve,Debit Card,3289,False,8,2024,False
+1082,2024-07-31,West,  Phone  ,Electronics,9,599,5182,Eve,Net Banking,5391,False,7,2024,False
+1110,2024-01-28,West,Headphones,Electronics,19,19,5120,Diana,Credit Card,361,False,1,2024,False
+1429,2024-05-03,north,Mouse,Electronics,2,599,5009,Frank,Net Banking,1198,False,5,2024,False
+1146,2024-08-18,Central,Laptop,Electronics,4,79,5043,Alice,Cash,316,False,8,2024,False
+1093,2024-01-15,West,Keyboard,Accessories,4,79,5185,Alice,Debit Card,316,False,1,2024,False
+1153,2024-06-08,North,Phone,Electronics,16,299,5198,Bob,Debit Card,4784,False,6,2024,False
+1480,2024-10-15,South,Mouse,Electronics,4,1299,5076,Bob,UPI,5196,False,10,2024,False
+1249,2024-05-07,Central,Headphones,Accessories,173,899,5109,Diana,Credit Card,155527,True,5,2024,True
+1084,2024-08-24,West,Tablet,Accessories,10,299,5070,Eve,Debit Card,2990,False,8,2024,False
+1104,2024-03-21,Central,Keyboard,Accessories,2,1299,5143,Frank,UPI,2598,False,3,2024,False
+1166,2024-04-17,Central,Phone,Electronics,15,899,5098,Diana,Credit Card,13485,False,4,2024,False
+1164,2024-10-10,South,Phone,Electronics,11,1299,5066,Charlie,Cash,14289,False,10,2024,False
+1200,2024-10-21,West,Keyboard,Electronics,18,19,5155,Bob,Net Banking,342,False,10,2024,False
+1246,2024-12-17,Central,Laptop,Accessories,9,899,5007,Eve,Cash,8091,False,12,2024,False
+1075,2024-12-16,East,Phone,Electronics,19,1299,5163,Unknown,UPI,24681,False,12,2024,True
+1317,2024-10-09,East,Charger,Accessories,15,599,5156,Diana,Credit Card,8985,False,10,2024,False
+1230,2024-04-07,East,Mouse,Accessories,1,19,5152,Charlie,Net Banking,19,False,4,2024,False
+1485,2024-09-06,West,Headphones,Accessories,9,79,5015,Bob,UPI,711,False,9,2024,False
+1120,2024-04-08,South,Mouse,Accessories,4,599,5087,Alice,Credit Card,2396,False,4,2024,False
+1387,2024-09-20,North,Phone,Electronics,15,599,5142,Eve,UPI,8985,False,9,2024,False
+1443,2024-10-05,North,Charger,Electronics,6,1299,5002,Frank,Debit Card,7794,False,10,2024,False
+1262,2024-04-21,Central,Laptop,Electronics,19,299,5107,Diana,Debit Card,5681,False,4,2024,False
+1365,2024-12-07,West,Mouse,Accessories,4,79,5143,Diana,Cash,316,False,12,2024,False
+1412,2024-04-10,Central,Mouse,Accessories,13,599,5173,Alice,Credit Card,7787,False,4,2024,False
+1336,2024-01-06,West,Phone,Accessories,4,899,5108,Frank,Cash,3596,False,1,2024,False
+1263,2024-02-29,West,Keyboard,Accessories,13,599,5101,Alice,Debit Card,7787,False,2,2024,False
+1481,2024-09-10,West,Mouse,Accessories,1,899,5182,Diana,Net Banking,899,False,9,2024,False
+1419,2024-07-14,North,Laptop,Electronics,3,79,5019,Alice,UPI,237,False,7,2024,False
+1395,2024-12-07,North,Mouse,Accessories,2,899,5084,Eve,UPI,1798,False,12,2024,False
+1281,2024-04-25,Central,  Keyboard  ,Electronics,8,19,5013,Eve,Cash,152,False,4,2024,False
+1037,2024-02-20,South,Mouse,Accessories,12,49,5093,Eve,UPI,588,False,2,2024,False
+1197,2024-11-13,West,Mouse,Electronics,7,299,5116,Diana,Credit Card,2093,False,11,2024,False
+1140,2024-12-17,East,Mouse,Accessories,3,599,5152,Eve,UPI,1797,False,12,2024,False
+1376,2024-09-03,South,Mouse,Accessories,18,79,5099,Alice,Debit Card,1422,False,9,2024,False
+1494,2024-05-26,Central,Keyboard,Accessories,3,1299,5038,Diana,Credit Card,3897,False,5,2024,False
+1292,2024-12-31,East,Tablet,Electronics,6,899,5097,Charlie,Net Banking,5394,False,12,2024,False
+1314,2024-12-30,Central,Mouse,Accessories,4,299,5076,Eve,Debit Card,1196,False,12,2024,False
+1060,2024-07-24,South,Mouse,Accessories,9,1299,5060,Alice,Credit Card,11691,False,7,2024,False
+1473,2024-04-03,Central,Mouse,Accessories,7,19,5035,Charlie,Debit Card,133,False,4,2024,False
+1112,2024-07-19,South,Charger,Accessories,3,1299,5142,Alice,Debit Card,3897,False,7,2024,False
+1090,2024-07-06,East,Mouse,Electronics,12,79,5084,Diana,Net Banking,948,False,7,2024,False
+1418,2024-04-12,East,Charger,Electronics,4,79,5121,Diana,Unknown,316,False,4,2024,False
+1007,2024-01-21,South,Charger,Electronics,8,49,5047,Charlie,Credit Card,392,False,1,2024,False
+1372,2024-09-02,East,Charger,Electronics,19,1299,5142,Eve,Debit Card,24681,False,9,2024,True
+1355,2024-10-07,Central,Phone,Accessories,13,899,5200,Charlie,Credit Card,11687,False,10,2024,False
+1347,2024-04-25,South,Phone,Accessories,4,19,5168,Frank,Debit Card,76,False,4,2024,False
+1159,2024-03-06,West,Phone,Accessories,5,19,5005,Alice,UPI,95,False,3,2024,False
+1151,2024-02-05,West,Laptop,Accessories,3,79,5017,Alice,Credit Card,237,False,2,2024,False
+1393,2024-10-14,South,Phone,Electronics,14,79,5030,Bob,Cash,1106,False,10,2024,False
+1039,2024-02-24,North,Tablet,Electronics,8,49,5165,Alice,Net Banking,392,False,2,2024,False
+1323,2024-10-10,North,Headphones,Electronics,4,299,5041,Charlie,Net Banking,1196,False,10,2024,False
+1199,2024-09-24,West,  Headphones  ,Accessories,11,1299,5014,Eve,Cash,14289,False,9,2024,False
+1450,2024-10-16,East,Phone,Accessories,5,1299,5127,Diana,Debit Card,6495,False,10,2024,False
+1147,2024-08-24,South,Charger,Accessories,13,19,5169,Frank,Credit Card,247,False,8,2024,False
+1405,2024-12-07,Central,Tablet,Accessories,7,599,5083,Bob,UPI,4193,False,12,2024,False
+1148,2024-05-22,West,Laptop,Electronics,15,599,5167,Diana,Debit Card,8985,False,5,2024,False
+1315,2024-02-20,East,  Laptop  ,Electronics,11,19,5030,Alice,Cash,209,False,2,2024,False
+1490,2024-10-16,West,Charger,Electronics,3,79,5093,Diana,Debit Card,237,False,10,2024,False
+1124,2024-02-04,Central,Laptop,Electronics,14,79,5115,Charlie,Credit Card,1106,False,2,2024,False
+1403,2024-11-09,South,Charger,Electronics,17,599,5150,Charlie,Credit Card,10183,False,11,2024,False
+1097,2024-11-22,Central,Headphones,Electronics,19,19,5161,Eve,Cash,361,False,11,2024,False
+1144,2024-04-05,East,Charger,Accessories,8,49,5028,Bob,Net Banking,392,False,4,2024,False
+1240,2024-09-15,North,Phone,Accessories,6,1299,5104,Eve,UPI,7794,False,9,2024,False
+1407,2024-06-28,South,Headphones,Accessories,19,1299,5179,Alice,Net Banking,24681,False,6,2024,True
+1098,2024-01-09,North,Phone,Electronics,9,299,5007,Alice,UPI,2691,False,1,2024,False
+1361,2024-06-22,east,Phone,Electronics,8,19,5186,Eve,Net Banking,152,False,6,2024,False
+1123,2024-08-01,South,Mouse,Electronics,12,1299,5147,Charlie,Cash,15588,False,8,2024,False
+1184,2024-11-13,East,Tablet,Accessories,6,19,5192,Charlie,Net Banking,114,False,11,2024,False
+1203,2024-04-22,West,Keyboard,Electronics,13,599,5058,Diana,Net Banking,7787,False,4,2024,False
+1247,2024-07-17,Central,Keyboard,Accessories,13,1299,5080,Eve,UPI,16887,False,7,2024,False
+1483,2024-12-22,East,Phone,Electronics,13,1299,5174,Diana,Credit Card,16887,False,12,2024,False
+1306,2024-05-07,South,Tablet,Electronics,18,49,5172,Bob,Cash,882,False,5,2024,False
+1362,2024-10-06,Central,Laptop,Electronics,16,19,5153,Frank,Cash,304,False,10,2024,False
+1308,2024-06-24,West,Keyboard,Electronics,11,49,5139,Alice,Net Banking,539,False,6,2024,False
+1408,2024-06-18,South,Laptop,Accessories,4,299,5131,Frank,Net Banking,1196,False,6,2024,False
+1291,2024-12-14,East,Charger,Electronics,2,599,5131,Diana,UPI,1198,False,12,2024,False
+1126,2024-04-10,Central,Tablet,Electronics,2,19,5085,Bob,Credit Card,38,False,4,2024,False
+1311,2024-06-06,South,Charger,Accessories,16,1299,5108,Eve,UPI,20784,False,6,2024,True
+1224,2024-07-02,Central,Phone,Electronics,8,19,5197,Charlie,Credit Card,152,False,7,2024,False
+1441,2024-04-26,East,Laptop,Accessories,12,49,5068,Charlie,Credit Card,588,False,4,2024,False
+1220,2024-07-16,South,Laptop,Electronics,18,19,5123,Eve,UPI,342,False,7,2024,False
+1130,2024-08-05,West,Charger,Accessories,13,1299,5169,Unknown,Cash,16887,False,8,2024,False
+1433,2024-05-24,East,Phone,Accessories,6,19,5052,Charlie,Credit Card,114,False,5,2024,False
+1491,2024-06-28,East,Phone,Electronics,4,1299,5150,Eve,UPI,5196,False,6,2024,False
+1337,2024-04-08,South,Charger,Accessories,11,49,5139,Bob,Unknown,539,False,4,2024,False
+1389,2024-05-22,Central,Headphones,Electronics,7,299,5072,Charlie,Cash,2093,False,5,2024,False
+1298,2024-06-17,South,Laptop,Electronics,15,299,5126,Bob,Debit Card,4485,False,6,2024,False
+1366,2024-05-30,South,Phone,Electronics,18,49,5191,Charlie,UPI,882,False,5,2024,False
+1302,2024-10-03,Central,Tablet,Accessories,11,1299,5116,Eve,Net Banking,14289,False,10,2024,False
+1295,2024-11-05,North,Headphones,Accessories,2,299,5148,Eve,Debit Card,598,False,11,2024,False
+1378,2024-12-20,East,Phone,Accessories,15,599,5115,Frank,Debit Card,8985,False,12,2024,False
+1349,2024-09-09,East,Charger,Accessories,7,79,5047,Diana,Cash,553,False,9,2024,False
+1113,2024-11-23,South,Keyboard,Electronics,13,1299,5057,Alice,Net Banking,16887,False,11,2024,False
+1180,2024-09-15,North,Laptop,Accessories,9,1299,5099,Diana,Debit Card,11691,False,9,2024,False
+1453,2024-04-27,East,Headphones,Electronics,16,899,5062,Bob,UPI,14384,False,4,2024,False
+1348,2024-07-09,Central,Charger,Electronics,4,19,5156,Bob,Cash,76,False,7,2024,False
+1339,2024-02-06,Central,Keyboard,Accessories,12,899,5015,Frank,Credit Card,10788,False,2,2024,False
+1498,2024-01-04,West,Charger,Accessories,10,299,5132,Diana,Cash,2990,False,1,2024,False
+1371,2024-10-25,East,Mouse,Electronics,18,79,5046,Diana,UPI,1422,False,10,2024,False
+1234,2024-04-06,East,Headphones,Electronics,14,19,5072,Charlie,Net Banking,266,False,4,2024,False
+1461,2024-10-04,South,Headphones,Accessories,3,49,5050,Frank,Credit Card,147,False,10,2024,False
+1463,2024-09-03,South,Tablet,Accessories,13,899,5069,Eve,UPI,11687,False,9,2024,False
+1165,2024-01-28,West,Tablet,Accessories,5,299,5074,Bob,Credit Card,1495,False,1,2024,False
+1137,2024-02-11,East,Laptop,Accessories,6,19,5086,Charlie,UPI,114,False,2,2024,False
+1198,2024-02-21,South,Mouse,Electronics,15,599,5092,Charlie,Debit Card,8985,False,2,2024,False
+1259,2024-09-08,North,Keyboard,Accessories,18,299,5160,Unknown,Credit Card,5382,False,9,2024,False
+1233,2024-05-23,North,Keyboard,Accessories,16,299,5085,Charlie,Debit Card,4784,False,5,2024,False
+1116,2024-02-17,Central,Headphones,Electronics,15,1299,5021,Charlie,Debit Card,19485,False,2,2024,True
+1121,2024-06-20,East,Tablet,Electronics,16,79,5165,Bob,UPI,1264,False,6,2024,False
+1370,2024-04-13,East,Phone,Accessories,10,49,5181,Alice,Net Banking,490,False,4,2024,False
+1225,2024-05-02,Central,Phone,Accessories,17,19,5051,Charlie,Debit Card,323,False,5,2024,False
+1415,2024-02-29,Central,Keyboard,Accessories,8,1299,5073,Eve,Credit Card,10392,False,2,2024,False
+1356,2024-08-10,North,Charger,Accessories,9,79,5087,Alice,Debit Card,711,False,8,2024,False
+1128,2024-09-13,Central,Laptop,Accessories,5,79,5140,Bob,UPI,395,False,9,2024,False
+1286,2024-09-10,West,Keyboard,Accessories,14,49,5059,Frank,Net Banking,686,False,9,2024,False
+1424,2024-12-20,South,Tablet,Accessories,9,1299,5181,Alice,UPI,11691,False,12,2024,False
+1108,2024-08-18,East,Headphones,Electronics,10,79,5170,Eve,Cash,790,False,8,2024,False
+1382,2024-11-08,south,Charger,Electronics,2,899,5091,Eve,Credit Card,1798,False,11,2024,False
+1334,2024-06-06,Central,Mouse,Accessories,17,79,5017,Diana,UPI,1343,False,6,2024,False
+1134,2024-07-25,West,Headphones,Electronics,7,19,5196,Charlie,UPI,133,False,7,2024,False
+1375,2024-06-18,South,Keyboard,Electronics,1,19,5137,Alice,UPI,19,False,6,2024,False
+1045,2024-01-21,East,Charger,Accessories,9,899,5100,Alice,UPI,8091,False,1,2024,False
+1477,2024-12-06,Central,Laptop,Accessories,6,49,5087,Alice,Credit Card,294,False,12,2024,False
+1066,2024-04-15,North,Headphones,Electronics,12,599,5152,Eve,Net Banking,7188,False,4,2024,False
+1284,2024-04-13,East,Keyboard,Electronics,10,899,5156,Alice,UPI,8990,False,4,2024,False
+1086,2024-02-22,East,Headphones,Electronics,3,49,5073,Eve,Credit Card,147,False,2,2024,False
+1243,2024-12-11,Central,Mouse,Electronics,9,79,5198,Bob,Cash,711,False,12,2024,False
+1187,2024-11-02,West,Headphones,Electronics,1,49,5021,Diana,Cash,49,False,11,2024,False
+1396,2024-02-20,Central,Tablet,Accessories,3,599,5113,Diana,Debit Card,1797,False,2,2024,False
+1160,2024-06-18,North,Tablet,Electronics,8,19,5002,Frank,Net Banking,152,False,6,2024,False
+1013,2024-04-09,East,Laptop,Electronics,14,79,5075,Alice,Credit Card,1106,False,4,2024,False
+1036,2024-06-23,South,Headphones,Accessories,10,79,5069,Charlie,Credit Card,790,False,6,2024,False
+1029,2024-12-10,South,Tablet,Accessories,2,299,5109,Alice,UPI,598,False,12,2024,False
+1171,2024-05-07,East,Headphones,Accessories,17,19,5167,Frank,Unknown,323,False,5,2024,False
+1143,2024-02-21,East,Keyboard,Accessories,1,19,5098,Frank,Cash,19,False,2,2024,False
+1411,2024-02-23,Central,Tablet,Electronics,7,299,5028,Diana,Net Banking,2093,False,2,2024,False
+1437,2024-04-01,West,Charger,Accessories,12,79,5187,Eve,Cash,948,False,4,2024,False
+1222,2024-11-19,Unknown,Tablet,Accessories,8,299,5171,Eve,Credit Card,2392,False,11,2024,False
+1096,2024-12-10,West,Tablet,Accessories,17,899,5178,Frank,Debit Card,15283,False,12,2024,False
+1052,2024-08-29,West,Mouse,Accessories,18,19,5129,Eve,Net Banking,342,False,8,2024,False
+1241,2024-05-27,East,Phone,Accessories,9,899,5042,Eve,Credit Card,8091,False,5,2024,False
+1384,2024-06-21,North,Phone,Electronics,17,1299,5120,Eve,UPI,22083,False,6,2024,True
+1352,2024-11-18,North,Charger,Electronics,13,599,5148,Alice,Net Banking,7787,False,11,2024,False
+1391,2024-12-19,North,Phone,Electronics,10,19,5035,Frank,Credit Card,190,False,12,2024,False
+1179,2024-08-20,South,Charger,Accessories,2,1299,5138,Diana,UPI,2598,False,8,2024,False
+1042,2024-05-10,Central,Mouse,Electronics,6,19,5074,Frank,Debit Card,114,False,5,2024,False
+1449,2024-08-26,Central,Tablet,Electronics,176,79,5120,Frank,Cash,13904,True,8,2024,False
+1400,2024-07-08,North,Headphones,Accessories,10,1299,5014,Frank,Cash,12990,False,7,2024,False
+1207,2024-01-02,North,Keyboard,Accessories,8,1299,5191,Frank,Cash,10392,False,1,2024,False
+1283,2024-04-22,South,Phone,Electronics,14,1299,5004,Bob,Cash,18186,False,4,2024,True
+1359,2024-11-18,North,Laptop,Accessories,10,49,5067,Alice,Net Banking,490,False,11,2024,False
+1255,2024-05-30,Unknown,Keyboard,Accessories,6,599,5161,Diana,Credit Card,3594,False,5,2024,False
+1425,2024-11-06,West,Tablet,Accessories,7,79,5061,Bob,Cash,553,False,11,2024,False
+1005,2024-03-12,West,Mouse,Electronics,6,19,5004,Diana,UPI,114,False,3,2024,False
+1257,2024-04-08,Central,Keyboard,Accessories,6,79,5008,Alice,Cash,474,False,4,2024,False
+1462,2024-12-14,Central,Tablet,Electronics,16,599,5149,Eve,Cash,9584,False,12,2024,False
+1101,2024-05-15,South,Phone,Accessories,4,49,5143,Bob,Net Banking,196,False,5,2024,False
+1227,2024-10-20,North,Headphones,Accessories,8,79,5012,Eve,Debit Card,632,False,10,2024,False
+1440,2024-08-16,West,  Laptop  ,Accessories,2,49,5196,Eve,Net Banking,98,False,8,2024,False
+1214,2024-05-05,East,Laptop,Electronics,15,79,5042,Diana,Credit Card,1185,False,5,2024,False
+1435,2024-11-14,East,Phone,Accessories,18,19,5142,Diana,Cash,342,False,11,2024,False
+1172,2024-12-13,West,Tablet,Accessories,12,1299,5086,Bob,Credit Card,15588,False,12,2024,False
+1099,2024-12-09,Unknown,Charger,Electronics,4,1299,5070,Diana,UPI,5196,False,12,2024,False
+1293,2024-12-03,South,Headphones,Accessories,12,599,5196,Alice,UPI,7188,False,12,2024,False
+1216,2024-02-22,South,Charger,Electronics,1,1299,5167,Frank,Debit Card,1299,False,2,2024,False
+1062,2024-02-19,Central,Keyboard,Accessories,14,19,5188,Eve,UPI,266,False,2,2024,False
+1048,2024-09-30,North,Keyboard,Electronics,18,299,5004,Diana,Debit Card,5382,False,9,2024,False
+1033,2024-07-06,central,Keyboard,Electronics,18,49,5035,Alice,Cash,882,False,7,2024,False
+1268,2024-02-06,South,Headphones,Electronics,1,1299,5032,Eve,Cash,1299,False,2,2024,False
+1328,2024-02-04,South,Mouse,Accessories,8,49,5075,Eve,Debit Card,392,False,2,2024,False
+1201,2024-04-22,Central,Charger,Electronics,12,299,5125,Diana,Cash,3588,False,4,2024,False
+1484,2024-01-23,North,Laptop,Electronics,2,49,5047,Diana,Credit Card,98,False,1,2024,False
+1028,2024-08-23,East,Keyboard,Electronics,7,599,5081,Bob,Debit Card,4193,False,8,2024,False
+1426,2024-11-03,West,Headphones,Electronics,4,19,5164,Frank,UPI,76,False,11,2024,False
+1231,2024-07-16,central,Mouse,Accessories,1,899,5041,Frank,Net Banking,899,False,7,2024,False
+1261,2024-12-11,Central,Mouse,Electronics,9,299,5176,Frank,Cash,2691,False,12,2024,False
+1379,2024-11-01,North,Headphones,Accessories,17,299,5134,Charlie,UPI,5083,False,11,2024,False
+1289,2024-04-08,South,Charger,Electronics,8,79,5069,Diana,Net Banking,632,False,4,2024,False
+1163,2024-05-13,Central,Keyboard,Electronics,1,19,5057,Unknown,Credit Card,19,False,5,2024,False
+1438,2024-02-27,Central,Laptop,Accessories,3,19,5078,Bob,UPI,57,False,2,2024,False
+1139,2024-03-03,West,Keyboard,Electronics,2,79,5081,Bob,Credit Card,158,False,3,2024,False
+1063,2024-12-25,West,Keyboard,Electronics,11,79,5057,Alice,Cash,869,False,12,2024,False
+1136,2024-12-11,West,Keyboard,Electronics,7,49,5071,Frank,Credit Card,343,False,12,2024,False
+1129,2024-01-05,North,Mouse,Electronics,6,899,5189,Charlie,Net Banking,5394,False,1,2024,False
+1493,2024-09-06,Central,Phone,Electronics,6,899,5051,Frank,Debit Card,5394,False,9,2024,False
+1009,2024-05-01,West,Laptop,Accessories,19,49,5198,Diana,Debit Card,931,False,5,2024,False
+1327,2024-01-04,Central,Tablet,Accessories,175,19,5058,Frank,Cash,3325,True,1,2024,False
+1479,2024-04-09,North,Charger,Accessories,14,79,5168,Bob,UPI,1106,False,4,2024,False
+1065,2024-02-23,Central,Charger,Electronics,12,1299,5084,Alice,UPI,15588,False,2,2024,False
+1301,2024-10-15,Central,Headphones,Accessories,15,49,5009,Charlie,Cash,735,False,10,2024,False
+1015,2024-05-31,Central,Laptop,Electronics,16,49,5137,Frank,Credit Card,784,False,5,2024,False
+1157,2024-03-26,West,Headphones,Electronics,9,599,5074,Alice,Cash,5391,False,3,2024,False
+1041,2024-11-15,South,Charger,Electronics,3,49,5149,Eve,Debit Card,147,False,11,2024,False
+1380,2024-01-13,Central,Charger,Accessories,3,1299,5151,Charlie,Net Banking,3897,False,1,2024,False
+1474,2024-08-25,West,Tablet,Accessories,1,1299,5065,Alice,Cash,1299,False,8,2024,False
+1416,2024-04-17,Central,Mouse,Accessories,5,899,5124,Eve,Debit Card,4495,False,4,2024,False
+1217,2024-06-20,East,Mouse,Accessories,11,79,5180,Alice,Credit Card,869,False,6,2024,False
+1280,2024-06-09,North,Mouse,Accessories,3,599,5158,Bob,Credit Card,1797,False,6,2024,False
+1448,2024-01-01,South,Tablet,Electronics,12,79,5169,Diana,Credit Card,948,False,1,2024,False
+1487,2024-09-02,East,Tablet,Accessories,9,79,5147,Bob,Credit Card,711,False,9,2024,False
+1338,2024-08-20,Central,Laptop,Accessories,7,49,5094,Diana,UPI,343,False,8,2024,False
+1237,2024-07-05,Central,Keyboard,Accessories,9,599,5047,Bob,UPI,5391,False,7,2024,False
+1208,2024-05-09,Central,Tablet,Accessories,18,899,5066,Charlie,Cash,16182,False,5,2024,False
+1213,2024-08-12,Central,Charger,Electronics,15,299,5097,Bob,Credit Card,4485,False,8,2024,False
+1296,2024-06-11,North,Phone,Accessories,16,599,5162,Charlie,Cash,9584,False,6,2024,False
+1471,2024-03-09,East,Keyboard,Accessories,18,899,5137,Charlie,Credit Card,16182,False,3,2024,False
+1252,2024-12-25,Central,Charger,Electronics,6,19,5114,Frank,UPI,114,False,12,2024,False
+1100,2024-05-08,Central,Mouse,Accessories,2,49,5127,Bob,UPI,98,False,5,2024,False
+1472,2024-02-16,North,Headphones,Accessories,8,49,5068,Eve,Credit Card,392,False,2,2024,False
+1304,2024-05-14,South,Keyboard,Accessories,6,299,5134,Charlie,Credit Card,1794,False,5,2024,False
+1351,2024-09-12,South,Keyboard,Accessories,12,899,5198,Charlie,Credit Card,10788,False,9,2024,False
+1270,2024-01-09,South,Phone,Accessories,7,1299,5012,Alice,Debit Card,9093,False,1,2024,False
+1202,2024-04-10,North,Laptop,Accessories,6,599,5168,Bob,Cash,3594,False,4,2024,False
+1162,2024-03-02,North,Phone,Accessories,12,19,5112,Eve,Cash,228,False,3,2024,False
+1044,2024-05-14,Unknown,Laptop,Electronics,6,899,5005,Frank,Credit Card,5394,False,5,2024,False
+1218,2024-08-05,Central,Tablet,Accessories,10,19,5023,Diana,Debit Card,190,False,8,2024,False
+1402,2024-05-29,East,Phone,Electronics,9,49,5102,Frank,Credit Card,441,False,5,2024,False
+1191,2024-11-10,Central,Keyboard,Electronics,146,19,5068,Unknown,Cash,2774,True,11,2024,False
+1310,2024-08-25,Central,Headphones,Electronics,11,19,5175,Charlie,Debit Card,209,False,8,2024,False
+1260,2024-05-23,East,Charger,Electronics,13,79,5124,Charlie,Debit Card,1027,False,5,2024,False
+1106,2024-10-15,Central,Tablet,Accessories,6,1299,5199,Diana,UPI,7794,False,10,2024,False
+1054,2024-12-11,Central,Phone,Accessories,7,1299,5057,Alice,Credit Card,9093,False,12,2024,False
+1390,2024-04-01,West,Mouse,Electronics,11,599,5190,Charlie,Net Banking,6589,False,4,2024,False
+1002,2024-12-14,North,Laptop,Accessories,11,599,5161,Diana,Debit Card,6589,False,12,2024,False
+1455,2024-03-29,Unknown,Mouse,Electronics,16,599,5176,Diana,Credit Card,9584,False,3,2024,False
+1499,2024-01-16,North,Mouse,Electronics,144,1299,5055,Frank,Debit Card,187056,True,1,2024,True
+1050,2024-11-11,Central,Mouse,Accessories,8,19,5039,Alice,Net Banking,152,False,11,2024,False
+1420,2024-09-18,East,Phone,Electronics,9,49,5175,Alice,Cash,441,False,9,2024,False
+1081,2024-10-22,East,Headphones,Accessories,5,899,5144,Unknown,Net Banking,4495,False,10,2024,False
+1206,2024-04-22,North,Mouse,Electronics,10,19,5113,Charlie,UPI,190,False,4,2024,False
+1035,2024-07-08,South,Laptop,Electronics,2,1299,5154,Frank,Cash,2598,False,7,2024,False
+1431,2024-06-06,North,Charger,Electronics,12,899,5161,Charlie,Debit Card,10788,False,6,2024,False
+1264,2024-01-02,North,Charger,Electronics,11,79,5004,Eve,UPI,869,False,1,2024,False
+1428,2024-09-25,west,Laptop,Electronics,17,1299,5030,Diana,Net Banking,22083,False,9,2024,True
+1367,2024-05-06,Central,Headphones,Electronics,19,899,5021,Diana,Debit Card,17081,False,5,2024,True
+1092,2024-06-05,North,Keyboard,Electronics,5,299,5107,Eve,Net Banking,1495,False,6,2024,False
+1340,2024-10-06,North,Laptop,Electronics,10,299,5091,Alice,Debit Card,2990,False,10,2024,False
+1489,2024-04-09,Central,Laptop,Accessories,11,599,5052,Frank,Cash,6589,False,4,2024,False
+1053,2024-09-21,South,Phone,Electronics,15,599,5024,Eve,Net Banking,8985,False,9,2024,False
+1346,2024-07-06,North,Phone,Accessories,10,599,5066,Diana,UPI,5990,False,7,2024,False
+1265,2024-10-30,North,Tablet,Electronics,1,599,5198,Frank,UPI,599,False,10,2024,False
+1242,2024-09-08,Unknown,Tablet,Electronics,1,1299,5060,Frank,Credit Card,1299,False,9,2024,False
+1014,2024-12-25,East,Laptop,Accessories,15,1299,5103,Alice,Debit Card,19485,False,12,2024,True
+1316,2024-09-20,Unknown,Phone,Electronics,19,899,5021,Eve,Credit Card,17081,False,9,2024,True
+1089,2024-09-08,Central,Phone,Accessories,7,19,5107,Bob,UPI,133,False,9,2024,False
+1388,2024-05-21,North,Charger,Electronics,3,899,5100,Frank,Debit Card,2697,False,5,2024,False
+1274,2024-10-30,West,Tablet,Accessories,17,299,5016,Unknown,Net Banking,5083,False,10,2024,False
+1167,2024-02-13,Central,Tablet,Electronics,5,299,5144,Charlie,Net Banking,1495,False,2,2024,False
+1329,2024-07-10,Central,Keyboard,Electronics,16,19,5185,Frank,Credit Card,304,False,7,2024,False
+1319,2024-08-13,North,Tablet,Electronics,13,79,5161,Charlie,Credit Card,1027,False,8,2024,False
+1135,2024-01-15,West,Mouse,Accessories,2,19,5127,Diana,Debit Card,38,False,1,2024,False
+1307,2024-02-02,North,Keyboard,Electronics,12,1299,5121,Frank,UPI,15588,False,2,2024,False
+1497,2024-11-20,South,Phone,Accessories,5,899,5179,Unknown,UPI,4495,False,11,2024,False
+1320,2024-10-03,East,Headphones,Accessories,162,79,5163,Charlie,Cash,12798,True,10,2024,False
+1244,2024-05-26,West,Phone,Accessories,16,899,5012,Eve,Net Banking,14384,False,5,2024,False
+1055,2024-02-22,North,Charger,Accessories,11,299,5100,Frank,UPI,3289,False,2,2024,False
+1364,2024-10-14,South,Laptop,Electronics,5,899,5038,Bob,Net Banking,4495,False,10,2024,False
+1051,2024-01-14,North,  Headphones  ,Electronics,8,599,5163,Bob,Cash,4792,False,1,2024,False
+1470,2024-08-07,east,Laptop,Electronics,6,49,5189,Eve,Net Banking,294,False,8,2024,False
+1175,2024-08-12,East,Laptop,Electronics,6,599,5168,Diana,Debit Card,3594,False,8,2024,False
+1446,2024-02-27,West,Laptop,Electronics,2,1299,5110,Bob,Debit Card,2598,False,2,2024,False
+1190,2024-05-31,West,Laptop,Electronics,14,599,5127,Bob,Credit Card,8386,False,5,2024,False
+1362,2024-10-06,Central,  Laptop  ,Electronics,16,19,5153,Frank,Cash,304,False,10,2024,False
+1464,2024-03-16,West,Laptop,Accessories,19,79,5048,Alice,Credit Card,1501,False,3,2024,False
+1188,2024-08-21,South,Phone,Accessories,17,599,5020,Diana,UPI,10183,False,8,2024,False
+1170,2024-11-26,Central,Tablet,Electronics,17,79,5125,Eve,Cash,1343,False,11,2024,False
+1059,2024-02-04,West,Mouse,Electronics,3,1299,5174,Frank,Credit Card,3897,False,2,2024,False
+1475,2024-07-22,West,Keyboard,Electronics,16,49,5008,Alice,Credit Card,784,False,7,2024,False
+1049,2024-03-29,central,Laptop,Electronics,12,19,5126,Diana,Net Banking,228,False,3,2024,False
+1345,2024-04-08,South,Headphones,Electronics,10,599,5162,Diana,UPI,5990,False,4,2024,False
+1236,2024-05-03,North,Charger,Electronics,5,19,5137,Charlie,Net Banking,95,False,5,2024,False
+1253,2024-05-08,South,Laptop,Electronics,14,49,5107,Diana,Cash,686,False,5,2024,False
+1022,2024-07-10,West,Tablet,Accessories,1,599,5003,Diana,Credit Card,599,False,7,2024,False
+1314,2024-12-30,Central,Mouse,Accessories,4,299,5076,Eve,Debit Card,1196,False,12,2024,False
+1460,2024-03-09,West,Charger,Accessories,8,599,5064,Charlie,Credit Card,4792,False,3,2024,False
+1161,2024-02-14,North,Mouse,Accessories,11,599,5022,Diana,UPI,6589,False,2,2024,False
+1277,2024-05-31,Central,Charger,Electronics,12,49,5109,Charlie,Net Banking,588,False,5,2024,False
+1444,2024-05-06,West,Tablet,Electronics,17,299,5105,Bob,Debit Card,5083,False,5,2024,False
+1192,2024-06-08,South,Laptop,Electronics,10,299,5110,Eve,Debit Card,2990,False,6,2024,False
+1386,2024-11-16,West,Laptop,Electronics,5,599,5038,Frank,Cash,2995,False,11,2024,False
+1294,2024-07-12,West,Charger,Accessories,5,79,5025,Diana,UPI,395,False,7,2024,False
+1414,2024-02-22,North,Keyboard,Electronics,4,299,5063,Alice,Net Banking,1196,False,2,2024,False
+1492,2024-08-10,Central,Keyboard,Accessories,18,299,5021,Frank,UPI,5382,False,8,2024,False
+1344,2024-04-04,South,Mouse,Accessories,17,19,5016,Diana,Net Banking,323,False,4,2024,False
+1258,2024-09-19,North,Tablet,Accessories,2,1299,5101,Eve,Net Banking,2598,False,9,2024,False
+1309,2024-01-22,West,Headphones,Accessories,13,1299,5194,Bob,Net Banking,16887,False,1,2024,False
+1150,2024-01-29,West,Headphones,Electronics,10,599,5177,Charlie,Net Banking,5990,False,1,2024,False
+1131,2024-09-11,North,Charger,Electronics,9,49,5161,Alice,Credit Card,441,False,9,2024,False
+1152,2024-01-13,Central,Charger,Accessories,14,19,5098,Eve,Credit Card,266,False,1,2024,False
+1360,2024-12-25,North,Mouse,Accessories,10,899,5004,Charlie,UPI,8990,False,12,2024,False
+1100,2024-05-08,Central,Mouse,Accessories,2,49,5127,Bob,UPI,98,False,5,2024,False
+1373,2024-06-24,West,Tablet,Accessories,181,79,5145,Alice,Net Banking,14299,True,6,2024,False
+1088,2024-08-04,Central,Mouse,Accessories,1,599,5184,Eve,Credit Card,599,False,8,2024,False
+1459,2024-07-10,South,Tablet,Accessories,12,49,5011,Frank,Credit Card,588,False,7,2024,False
+1331,2024-01-17,East,Phone,Electronics,4,49,5176,Diana,Net Banking,196,False,1,2024,False
+1215,2024-05-09,Central,Charger,Electronics,2,299,5006,Diana,Debit Card,598,False,5,2024,False
+1467,2024-03-26,North,Phone,Accessories,8,899,5195,Frank,Cash,7192,False,3,2024,False
+1122,2024-12-25,South,Charger,Accessories,10,19,5049,Bob,Debit Card,190,False,12,2024,False
+1185,2024-06-13,North,Mouse,Electronics,5,1299,5032,Alice,UPI,6495,False,6,2024,False
+1021,2024-10-20,East,Charger,Electronics,2,899,5050,Eve,Cash,1798,False,10,2024,False
+1189,2024-06-20,West,Charger,Electronics,19,19,5154,Alice,Credit Card,361,False,6,2024,False
+1072,2024-06-10,North,Headphones,Electronics,4,899,5158,Frank,Cash,3596,False,6,2024,False
+1107,2024-09-17,East,Headphones,Electronics,7,1299,5149,Bob,Cash,9093,False,9,2024,False
+1271,2024-08-20,East,Tablet,Accessories,15,49,5139,Eve,Credit Card,735,False,8,2024,False
+1436,2024-10-01,Central,Phone,Electronics,3,49,5053,Eve,Credit Card,147,False,10,2024,False
+1103,2024-05-18,South,Laptop,Accessories,15,79,5148,Diana,Credit Card,1185,False,5,2024,False
